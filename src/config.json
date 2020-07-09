@@ -27,6 +27,19 @@
         41.879
       ],
       "datasetHash": "ea99606"
+    }, 
+    "minneapolis": {
+      "title": "St. Paul/Minneapolis Energy Ecosystem", 
+      "shortName": "Minneapolis", 
+      "center": [
+        43, 
+        -93.9
+        ], 
+      "flyTo": [
+        44.986656, 
+        -93.258133, 
+        ], 
+      "datasetHash": "automatcally added - add once json configured"
     }
   }
 }
