@@ -1,0 +1,779 @@
+idx,tax1,tax2,tax3,company,address,city,lat,lng,website
+1,Accelerator/Incubator,Media,,1871,"222 W Merchandise Mart Plz Floor 12 Suite 1212, Chicago, IL 60654",Chicago,41.888617,-87.635503,https://1871.com/
+2,Energy Efficiency,Engineering,Consulting,360 Energy Group,"8770 W Bryn Mawr Ave Suite 1300, Chicago, IL 60631",Chicago,41.98308,-87.845383,https://www.360eg.com/
+3,Wind,Manufacturing,Professional Services,3S Lift,"455 N Cityfront Plaza Dr, Chicago, IL 60611",Chicago,41.890205,-87.621028,https://www.3slift.com/en/
+4,Security/Cybersecurity,,,5thColumn,"640 N LaSalle Dr, Suite 650 Chicago, IL 60654",Chicago ,41.894614,-87.633161,https://www.5thcolumn.net/
+5,Generation/Transmission,Engineering,Professional Services,A Star Electric Company,"200 Seegers Ave, Elk Grove Village, IL 60007",Elk Grove Village,42.024124,-87.966247,https://astareg.com/
+6,Professional Services,Construction,,A to Z Electric Co.,"5030 W Lawrence Ave, Chicago, IL 60630",Chicago ,41.968109,-87.753928,https://electricatoz.com/
+7,Thermal Energy ,Professional Services,Energy Efficiency,A. Messe Supply,"2500 W Lake St, Chicago, IL 60612",Chicago,41.884873,-87.689397,https://amessesupply.com/geothermal-heating-viable-option-for-chicago-commercial-buildings/
+8,Energy Efficiency,Engineering,Professional Services,Able Services,"150 N Wacker Dr Suite 1800, Chicago, IL 60606",Chicago ,41.884758,-87.637338,https://ableserve.com/services/chicago/
+9,Solar,Manufacturing,Materials,Absolute Process Instruments,"1220 American Way, Libertyville, IL 60048",Chicago ,42.298598,-88.00183,https://api-usa.com/
+10,Construction,Professional Services,,Accel Construction Services Group,"4753 N Broadway Suite 802 Chicago, IL 60640",Chicago ,41.968764,-87.659118,https://www.acceldevgroup.com/
+11,Construction,Energy Efficiency,Consulting,Accend Construction,"833 W Jackson Blvd, Suite 100 Chicago, IL 60607",Chicago ,41.87775,-87.648789,https://www.accendconstruction.com/
+12,Wind,Wave/Water/Hydro,Professional Services,Acciona Wind Energy USA LLC,"55 E Monroe St,Chicago, IL 60603",Chicago ,41.880554,-87.625536,https://www.acciona.us/
+13,Nuclear,Engineering,Manufacturing,Advance Thermal Corp.,"226 Gerry Dr, Wood Dale, IL 60191",Wood Dale,41.978773,-87.985445,https://www.advancethermal.com/
+14,Construction,Consulting,Professional Services,Advanced Area Service Corp,"9840 S Prospect Ave, Chicago, IL 60643",Chicago,41.714759,-87.6640128,https://www.advancedareaservicecorp.com/
+15,Enabling Technologies/Components,Oil and Gas,,Advanced Diamond Technologies,"52 E Belmont Dr, Romeoville, IL 60446",Romeoville,41.647934,-88.078561,http://www.thindiamond.com/
+16,Circular Economy,Professional Services,Construction,Advanced Disposal,"1711 Church St, Evanston, IL 60201",Evanston,42.048727,-87.696875,https://www.advanceddisposal.com/il/chicago
+17,Solar,Energy Efficiency,Consulting,Advanced Energy Products,"641 W Kathleen Dr, Des Plaines, IL 60016",Des Plaines,42.039466,-87.93687,https://www.advancedenergyproducts.com/
+18,Consulting,Utility/Grid,Professional Services,Advanced Energy Services,"1051 E High St, Mundelein, IL 60060",Mundelein,42.259108,-87.987704,https://www.greenhomeaes.com/
+19,Oil and Gas,Marketing,,"Advanced Lubrication, Inc","500 S Spruce St, Manteno, IL 60950",Manteno,41.243785,-87.857644,https://www.advlubrication.com/
+20,Oil and Gas,Professional Services,,"AEP Energy, Inc.","225 W Wacker Dr Suite 600, Chicago, IL 60654",Chicago,41.886282,-87.63508,https://www.aepenergy.com/
+21,Wind,Architecture/Design,Built Environment,Aerotecture International,"2155 Wolpers Rd, Park Forest, IL 60466",Park Forest,41.453676,-87.665954,http://www.aerotecture.com/
+22,Finance,Utility/Grid,Professional Services,Affordable Community Energy Services,"180 N Michigan Ave Suite 2409, Chicago, IL 60606",Chicago,41.885504,-87.624889,https://www.affordablecommunityenergyservices.com/
+23,IoT/IIoT,Energy Efficiency,Finance,Agentis,"29 N Wacker Dr Suite 200, Chicago, IL 60606",Chicago,41.882844,-87.636617,https://www.agentisenergy.com/
+24,Nuclear,Construction,Professional Services,AGT Global Logistics,"800 Roosevelt Rd Building C Suite 300, Glen Ellyn, IL 60137",Glen Ellyn,41.860956,-88.054264,https://www.agt3pl.com/services/#hazmat-and-radioactive
+25,Solar,Professional Services,,Ailey Solar,"1965 W Pershing Rd, Chicago, IL 60609",Chicago,41.822345,-87.674599,http://aileysolarelectric.com/
+26,Utility/Grid,Consulting,Energy Systems/Management,AIM Utility Advisors,"600 Enterprise Dr Suite 120, Oak Brook, IL 60523",Oak Brook,41.850919,-87.934438,www.aimenergygroup.com
+27,Environmental Remediation,Consulting,,Aires Consulting,"1550 Hubbard Ave, Batavia, IL 60510",Batavia,41.859116,-88.274836,https://www.airesconsulting.com/environmental-engineering/
+28,Security/Cybersecurity,Manufacturing,Materials,"Airgas, Inc.","12722 S Wentworth Ave, Chicago, IL 60628",Chicago,41.662515,-87.626889,www.airgas.com
+29,Consulting,Construction,Engineering,AKT Peerless,"280 Shuman Blvd Suite 170, Naperville, IL 60563",Naperville,41.802555,-88.151585,https://www.aktpeerless.com/
+30,Wind,Wave/Water/Hydro,Solar,Akuo Energy,"645 N Michigan Ave Suite 980, Chicago, IL 60611",Chicago,41.893895,-87.623633,http://www.akuoenergy.com/en
+31,Oil and Gas,Professional Services,,"Al Warren Oil Company, Inc.","4243 S Knox Ave, Chicago, IL 60632",Chicago,41.81548,-87.739345,http://www.alwarrenoil.com/
+32,Circular Economy,,,All American Recycling,"2285 New Lenox Rd, Joliet, IL 60433",Joliet,41.512516,-88.028398,https://aarecycles.com/
+33,Energy Efficiency,Utility/Grid,Engineering,"All Suburban Electric, Inc.","810 S Arthur Ave, Arlington Heights, IL 60005",Arlington Heights,42.069735,-87.966376,http://www.allsuburbanelectric.com/
+34,Storage,,,AllCell Technologies,"2321 W 41st St, Chicago, IL 60609",Chicago,41.819107,-87.683243,https://www.allcelltech.com/
+35,Environmental Remediation,,,Alliance for the Great Lakes,"150 N Michigan Ave, Chicago, IL 60601",Chicago,41.884782,-87.624961,https://greatlakes.org/
+36,Circular Economy,,,Alpha Metals Corporation,"341 N California Ave, Chicago, IL 60612",Chicago,41.887758,-87.695397,https://alphametalsrecycle.com/
+37,Solar,Wind,Energy Efficiency,Alternative Currents,"4314 N Hamlin Ave, Chicago, IL USA 60618",Chicago,41.959701,-87.72314,https://www.alternative-currents.com/
+38,Consulting,Utility/Grid,Energy Systems/Management,"Alternative Utility Services, Inc.","770 N Halsted Suite 156, Chicago, IL 60642",Chicago,41.896149,-87.648314,https://ausenergy.com/
+39,Energy Efficiency,Utility/Grid,Consulting,Ambit Energy,"3948 W 26th St Suite 103, Chicago, IL 60623",Chicago,41.844399,-87.723907,https://www.ambitenergy.com/rates-and-plans/service-areas/illinois-energy-providers
+40,Wind,Energy Systems/Management,Energy Efficiency,Ameresco,"150 N Michigan Ave Suite 420, Chicago, IL 60601",Chicago,41.88478,-87.624961,https://www.ameresco.com/solution/wind-power/
+41,Nuclear,Media,,American Nuclear Society,"555 N Kensington Ave, La Grange Park, IL 60526",La Grange Park,41.824762,-87.8745,http://www.ans.org/pubs/magazines/nn/
+42,Solar,Storage,Utility/Grid,American Renewable Energy,"848 Dodge Ave Suite 388, Evanston, IL 60202",Evanston,42.033577,-87.699715,http://www.americanrenewable.com/
+43,Generation/Transmission,Thermal Energy,Utility/Grid,Americas Power Partners Inc.,"710 N York Rd, Hinsdale, IL 60521",Hinsdale,41.814826,-87.925705,www.americaspowerpartners.com
+44,Oil and Gas,Professional Services,,"AmeriGas Propane, Inc.","4158 Division St, Hillside, IL 60162",Hillside,41.866239,-87.887268,www.amerigas.com
+45,Security/Cybersecurity,Professional Services,,Anomalix Inc.,"222 Merchandise Mart Plz Suite 1212, Chicago, IL 60654",Chicago,41.888409,-87.635448,https://www.anomalix.com/
+46,Oil and Gas,Storage,Professional Services,"Apex Oil Company, Inc.","4805 S Harlem, Forest View, IL 60402",Forest View,41.805,-87.801892,http://apexoil.com/
+47,Enabling Technologies/Components,Materials,,Applied Industrial Technologies,"1610 Jarvis Ave, Elk Grove Village, IL 60007",Elk Grove Village,42.013515,-87.961584,https://www.applied.com/
+48,Environmental Remediation,Circular Economy,Professional Services,AQS Services,"443 S Clay St, Hinsdale, IL",Hinsdale,41.796973,-87.934821,http://aqs-services.com/
+49,IoT/IIoT,Finance,Professional Services,Aquilon Network,"1001 Warrenville Rd Suite 255, Lisle, IL 60532",Lisle,41.808028,-88.071919,https://aquiloninc.com/
+50,Construction,Energy Efficiency,Professional Services,Arc Insulation,"29 Forestwood Ct Suite 1, Romeoville, IL 60446",Romeoville,41.649892,-88.0758,https://arcinsulation.com/
+51,Consulting,Engineering,Professional Services,Ardmore Associates,"33 N Dearborn Suite 1720, Chicago, IL 60602",Chicago,41.882885,-87.628933,http://ardmoreassociates.com/about/
+52,Academia/Research,Accelerator/Incubator,,"Argonne National Laboratory, Distributed Energy Research Center (DERC)","9700 S Cass Ave, Lemont, IL 60439",Lemont,41.706553,-87.974322,https://www.anl.gov/es/distributed-energy-research-center
+53,Academia/Research,Accelerator/Incubator,,"Argonne National Laboratory, Environmental Sample Preparation and Sequencing Facility","9700 S Cass Ave, Lemont, IL 60439",Lemont,41.712825,-87.979837,https://www.anl.gov/bio/environmental-sample-preparation-and-sequencing-facility
+54,Academia/Research,Accelerator/Incubator,,"Argonne National Laboratory, EV-Smart Grid Interoperability Center","9700 S Cass Ave, Lemont, IL 60439",Lemont,41.706505,-87.973185,https://www.anl.gov/es/evsmart-grid-interoperability-center
+55,Academia/Research,Accelerator/Incubator,,"Argonne National Laboratory, Mechanical and Environmental Testing Laboratory","9700 S Cass Ave, Lemont, IL 60439",Lemont,41.712096,-87.979601,https://www.anl.gov/nse/environmentally-assisted-cracking-laboratory-0
+56,Academia/Research,Accelerator/Incubator,,"Argonne National Laboratory, Molten Salt Technology Development Facilities","9700 S Cass Ave, Lemont, IL 60439",Lemont,41.704463,-87.973035,https://www.anl.gov/cfc/molten-salt-technology-development-facilities
+57,Academia/Research,Accelerator/Incubator,,"Argonne National Laboratory, Non-Destructive Evaluation and Testing Facilities","9700 S Cass Ave, Lemont, IL 60439",Lemont,41.711463,-87.984783,https://www.anl.gov/nse/nondestructive-evaluation-and-testing-facilities
+58,Academia/Research,Accelerator/Incubator,,"Argonne National Laboratory, Nuclear Magnetic Resonance (NMR) Spectroscopy Laboratory","9700 S Cass Ave, Lemont, IL 60439",Lemont,41.703598,-87.990812,https://www.anl.gov/cse/nuclear-magnetic-resonance-nmr-spectroscopy-laboratory
+59,Academia/Research,Accelerator/Incubator,,"Argonne National Laboratory, Post-Test Facility","9700 S Cass Ave, Lemont, IL 60439",Lemont,41.71196,-87.983881,https://www.anl.gov/cse/posttest-facility
+60,Academia/Research,Accelerator/Incubator,,"Argonne National Laboratory, Steam Generator Tube Integrity Facilities","9700 S Cass Ave, Lemont, IL 60439",Lemont,41.706017,-87.975137,https://www.anl.gov/nse/steam-generator-tube-integrity-facilities
+61,Environmental Remediation,Wave/Water/Hydro,Chemistry,"Arro Laboratory, Inc.","425 Caton Farm Rd, Joliet, IL 60435",Joliet,41.566201,-88.09359,http://arrolab.com/
+62,Oil and Gas,Construction,Professional Services,Ashland Propane,"16525 Vincennes Ave, South Holland, IL 60473",South Holland,41.596887,-87.625844,http://www.ashlandpropane.com/
+63,Oil and Gas,Storage,,"Asphalt Operating Services of Chicago, LLC","2835 E 106th St, Chicago, IL 60617",Chicago,41.702969,-87.555188,https://www.aoschicago.net/
+64,Solar,Engineering,Materials,Atkore International,"16100 S Lathrop Ave, Harvey, IL 60426",Harvey,41.595661,-87.641548,http://www.atkore.com/
+65,Solar,Lighting ,,Atlas Material Testing Solutions,"1500 Bishop Ct, Mt. Prospect, IL 60056",Mt. Prospect,42.079816,-87.912488,https://www.atlas-mts.com/
+66,Nuclear,Engineering,Manufacturing,"Automated Engineering Services, Inc.","40 Shuman Blvd Suite 220, Naperville, IL 60563",Naperville,41.803366,-88.143931,https://thinkaes.com/
+67,IoT/IIoT,Lighting,Consulting,Automatic Building Controls,"3315 Algonquin Rd Suite 550, Rolling Meadows, IL 60008",Rolling Meadows,42.00289,-88.019996,http://www.ab-controls.com/
+68,Oil and Gas,,,Aux Sable,"6155 E US Route 6, Morris, IL 60450",Morris,41.414294,-88.307915,http://www.auxsable.com/
+69,Environmental Remediation,Evaluation/Compliance,Professional Services,Axis Response Group,"2355 N Milwaukee, Chicago, Il 60647",Chicago,41.924138,-87.698915,https://axisresponsegroup.com/services/
+70,Security/Cybersecurity,Consulting,Professional Services,"AZBS, Inc.","641 W Lake St Suite 300, Chicago, IL 60661",Chicago,41.885413,-87.644467,https://azbs.com/
+71,Professional Services,Construction,,"B&N Electric Company, Inc.","105 Navajo Ct, McHenry , IL 60051",McHenry ,42.365952,-88.199432,https://www.bnelectricinc.com/
+72,Security/Cybersecurity,Evaluation/Compliance,,BAI Security,"900 National Pkwy Suite 320, Schaumburg, IL 60173",Schaumburg,42.045714,-88.052893,http://www.baisecurity.net
+73,Law,Construction,Finance,Baker McKenzie,"300 E Randolph St, Chicago, IL 60601",Chicago,41.88489,-87.619545,https://www.bakermckenzie.com/en/expertise/industries/energy-mining--infrastructure
+74,Law,,,"Balough Law Offices, LLC"," 20 N Clark St Suite 3300, Chicago, IL 60602",Chicago,41.88231,-87.631133,https://www.balough.com/
+75,Oil and Gas,Finance,,Barbara Oil Company,"21 S Clark St Suite 3990, Chicago, IL 60603",Chicago,41.881729,-87.630593,https://www.linkedin.com/company/barbara-oil-company
+76,Law,Finance,,Barnes & Thornburg LLP,"1 N Wacker Dr Suite 4400, Chicago, IL 60606-2833",Chicago,41.882318,-87.636129,https://www.btlaw.com/work/industries/energy-and-utilities/renewable-energy
+77,Environmental Remediation,,,Barrington Area Conservation Trust,"145 W Main St, Barrington, IL 60010",Barrington,42.153907,-88.138098,https://www.bactrust.org/
+78,Storage,Manufacturing,Marketing,Battery Builders Inc.,"31W238 91st St, Naperville, IL 60564",Naperville,41.717359,-88.23141,http://bbibattery.com/
+79,Policy,Storage,Consulting,Battery Council International,"330 N Wabash Ave Suite 2000, Chicago, IL 60611",Chicago,41.888626,-87.62755,https://batterycouncil.org/?
+80,Consulting,Professional Services,Energy Efficiency,Baumann Consulting,"180 N LaSalle Suite 2210, Chicago, IL 60601",Chicago,41.885472,-87.633006,https://baumann-us.com/
+81,Environmental Remediation,Consulting,Engineering,BBJ Group  ,"140 S Dearborn St, Chicago, IL 60603",Chicago,41.879798,-87.629547,https://www.bbjgroup.com/
+82,Oil and Gas,Professional Services,,Bear Oil Distributors Inc,"740 N Larch Ave, Elmhurst, IL 60126",Elmhurst,41.921697,-87.944432,
+83,Enabling Technologies/Components,Professional Services,,Bearing Headquarters,"Elk Grove Village Branch 037 109 N Lively Blvd, Elk Grove Village, IL 60007",Elk Grove Village,42.02921,-87.968765,https://www.bearingheadquarters.com/
+84,Oil and Gas,Professional Services,,"Beaver Oil Co., Inc.","6037 Lenzi Ave, Hodgkins, IL 60525",Hodgkins,41.780506,-87.86285,https://circonenviro.com/
+85,Oil and Gas,Biofuels,,"Bell Fuels, Inc.","5041 W 39th St, Cicero, IL 60804",Cicero,41.82279,-87.75147,https://bellfuels.com/
+86,Oil and Gas,Biofuels,,"Bell Fuels, Inc.","1515 Creek Dr, Morris, IL 60450",Morris,41.37199,-88.43993,https://bellfuels.com/
+87,Academia/Research,,,"Benedictine University, Students for Ecological and Environmental Development (SEEDs)","Birck Hall of Science Room 225, Lisle, IL 60532
+",Lisle,41.776465,-88.09541,http://www.ben.edu/student-life/student-activities/view-club.cfm?orgId=1224446
+88,Energy Efficiency,Utility/Grid,Consulting,"Best Energy, LLC","233 S Wacker Dr Floor 84, Chicago, IL 60606",Chicago,41.878879,-87.635836,http://bestenergy.com/
+89,Oil and Gas,Professional Services,Consulting,Black Dog Corporation,"4226 Lawndale Ave, Lyons, IL 60534",Lyons,41.813278,-87.825865,http://www.blackdogcorp.com/
+90,Oil and Gas,Professional Services,,Blu Petroleum,"21402 W Il Route 60, Mundelein, IL 60060",Mundelein,42.290719,-88.052095,www.blupetroleum.com
+91,Professional Services,Construction,,Blue Arc Electric Inc.,"624 Westwind Dr, Carpentersville, IL 60110",Carpentersville,42.121831,-88.296327,http://bluearcelectricinc.com/
+92,Solar,Professional Services,,Blue Raven Solar,"1300 greenbrook blvd suite 302, Hanover park, IL 60133",Hanover park,41.979603,-88.137095,https://blueravensolar.com/illinois/chicago/
+93,Oil and Gas,Manufacturing,,Blue Rhino,"24260 S Northern Illinois Dr, Channahon, IL 60410",Channahon,41.441086,-88.203057,https://bluerhino.com/
+94,Accelerator/Incubator,Academia/Research,Media,BLUE1647,"2150 S Canalport Ave, Chicago, IL 60608",Chicago,41.85343,-87.650045,https://www.blue1647.com/
+95,Solar,Utility/Grid,Storage,Borrego Solar,"1 N State St Suite 1500, Chicago, IL 60602",Chicago,41.882501,-87.627511,https://www.borregosolar.com/ 
+96,Oil and Gas,,,BP Corporation North America Inc.,"1395 Butterfield Rd, Aurora, IL 60502",Aurora,41.812356,-88.280444,www.bp.com
+97,Oil and Gas,,,BP Products North America,"30 S Wacker Dr # 900, Chicago, IL 60606",Chicago,41.880974,-87.637248,https://www.bp.com/en_us/united-states/home.html
+98,Law,,,BPI,"25 E Washington St Suite 1515, Chicago, IL 60602",Chicago,41.883048,-87.62682,https://www.bpichicago.org/
+99,Storage,Manufacturing,,Bridgeview Power LLC,"7655 W 100th Pl, Bridgeview, IL 60455",Bridgeview,41.708961,-87.810253,https://bridgeviewpower.com/
+100,Circular Economy,,,"Brookfield Resource Management, Inc.","171 E 12th St, Chicago Heights, IL 60412",Chicago Heights,41.511128,-87.628973,https://www.brookfieldco.com/
+101,Law,Finance,Construction,Bryan Cave Leighton Paisner LLP,"161 N Clark St, Chicago, IL 60601",Chicago,41.884795,-87.630692,https://www.bclplaw.com/en-US/
+102,Oil and Gas,Storage,,Buchanan Energy,"2500 Brickvale Dr, Elk Grove Village, IL 60007",Elk Grove Village,41.990327,-87.953614,www.buchananenergy.com
+103,Oil and Gas,Storage,,Buchanan Energy,"1185 W Park Ave, Libertyville, IL 60048",Libertyville,42.280575,-87.973504,www.buchananenergy.com
+104,Built Environment,Energy Efficiency,Construction,Building Energy Experts,"334 Fairview Park Ave, Crystal Lake, IL 60014",Crystal Lake,42.242148,-88.3334,http://www.buildingenergyexperts.com/
+105,Finance,Enabling Technologies/Components,IoT/IIoT,Buoyant Ventures,"71 S Wacker Dr Suite 2760, Chicago, IL 60606",Chicago,41.88117,-87.63607,https://www.buoyant.vc/
+106,Consulting,Professional Services,Construction,Burns & McDonnell,"200 W Adams Suite 2700, Chicago, IL 60606",Chicago,41.87977,-87.63414,https://www.burnsmcd.com/
+107,Consulting,Engineering,Energy Efficiency,Buro Happold,"1 S Dearborn St Floor 20, Chicago, IL, 60603",Chicago,41.881743,-87.628816,https://www.burohappold.com/what-we-do/specialisms/sustainability/
+108,Nuclear,Generation/Transmission,,Byron Nuclear Generating Station,"4450 N German Church Rd, Byron, IL 61010",Byron,42.077053,-89.281598,https://www.exeloncorp.com/locations/power-plants/byron-generating-station
+109,Enabling Technologies/Components,Manufacturing,,C.E. Niehoff & Co.,"2021 Lee St, Evanston, IL 60202",Evanston,42.036218,-87.701699,https://www.ceniehoff.com/
+110,Oil and Gas,Professional Services,,C.S. Drilling Inc,"812 S Madison St, Hinsdale, IL 60521",Hinsdale,41.792135,-87.936841,http://www.csdrilling.com/
+111,Oil and Gas,Evaluation/Compliance,,Calumet Energy Team LLC,"11653 S Torrence Ave, Chicago, IL 60617",Chicago,41.683959,-87.558877,http://www.energyjustice.net/map/displayfacility-68792.htm
+112,Finance,Energy Systems/Management,Consulting,"Capital Energy Group, Inc.","1750 E Golf Rd suite 130, Schaumburg, IL 60173, USA",Schaumburg,42.052538,-88.035621,https://www.capitalenergychicago.com/
+113,Biofuels,Manufacturing,,Carbon Green BioEnergy,"303 W Madison St, Chicago, IL 60606",Chicago,41.88151,-87.635524,http://www.cgbioenergy.com/
+114,Consulting,Biofuels,Energy Efficiency,Carbon Solutions Group,"1608 S Ashland Ave Suite 58751, Chicago, IL 60608",Chicago,41.859385,-87.666631,https://www.carbonsolutionsgroup.com/
+115,Consulting,Energy Efficiency,Professional Services,Carden Recruiting International,"1031 Talcott Ave, Lemont, IL 60439",Lemont,41.676641,-87.99174,http://www.cardenrecruiting.com/
+116,Environmental Remediation,Consulting,Evaluation/Compliance,Carlson Environmental  ,"65 E Wacker Pl Suite 2210, Chicago, IL 60601",Chicago,41.886616,-87.625541,http://www.carlsonenv.com/
+117,Oil and Gas,Manufacturing,Marketing,Cartel Products,"3 Lincoln St, Harvard, IL 60033",Harvard,42.416877,-88.609222,https://cartelproducts.com/
+118,Consulting,Engineering,Professional Services,CCJM,"303 E Wacker Dr Suite 303, Chicago, IL 60601",Chicago,41.887297,-87.620241,http://www.ccjm.com/
+119,Academia/Research,Chemistry,Energy Efficiency,Center for Light Energy Activated Redox Processes,"2190 Campus Dr Ryan Hall Room 1010, Evanston, IL 60208",Evanston,42.056834,-87.674482,https://isen.nu/leap
+120,Built Environment,Finance,,Center for Neighborhood Technology,"17 N State St, Chicago, IL, 60602",Chicago,41.8827,-87.627392,https://www.cnt.org/
+121,Construction,Energy Efficiency,Professional Services,Central Illinois Insulation,"1412 S Main St, Morton, IL 61550",Morton,40.596913,-89.472151,http://centralillinoisinsulation.com/
+122,Nuclear,Professional Services,Engineering,"CFM/VR-Tesco, LLC","1875 Fox Ln, Elgin, IL 60123",Elgin,42.07353,-88.321957,http://www.globalfield.net/index.html
+123,Solar,Finance,Professional Services,Chart House Energy,"661 W Lake St Suite 2S, Chicago, IL 60661",Chicago,41.885388,-87.645125,http://www.charthouseenergy.com/default.asp?iId=HILHG
+124,Environmental Remediation,,,Chicago Audubon Society,"5801 N Pulaski, Chicago, IL 60646",Chicago,41.986162,-87.726792,https://www.chicagoaudubon.org/
+125,Built Environment,Finance,,Chicago Community Loan Fund,"29 E Madison St Suite 1700, Chicago, IL 60602",Chicago,41.881998,-87.626741,https://cclfchicago.org/assistance/sustainability-resources/
+126,Circular Economy,Professional Services,,Chicago Disposal,"1924 177th St, Lansing, IL 60438",Lansing,41.57428,-87.570865,http://www.chicagodisposal.com/
+127,Utility/Grid,Construction,Professional Services,Chicago Electrical Company,"200 W Jackson Blvd Suite 1340, Chicago, IL 60606",Chicago,41.878379,-87.634139,http://cecoinc134.com/
+128,Environmental Remediation,,,Chicago Ornithological Society,"332 S Michigan Ave, Chicago, IL 60604",Chicago,41.877294,-87.624614,https://www.chicagobirder.org/
+129,Environmental Remediation,,,Chicago Parks Foundation,"541 N Fairbanks Ct, Chicago, IL 60611",Chicago,41.892236,-87.619837,https://www.chicagoparksfoundation.org/
+130,Circular Economy,,,Chicago Recycling Coalition,"2125 W North Ave, Chicago, IL 60647",Chicago,41.910145,-87.68088,https://www.chicagorecyclingcoalition.org/
+131,Academia/Research,,,"Chicago State University, Global Institute of Sustainable Development","9501 S King Dr Suite 316, Chicago, IL 60626",Chicago,41.717958,-87.609374,https://www.csu.edu/internationalstudies/globalinstitute/programs.htm
+132,Finance,Marketing,,Chicago Ventures,"222 W Merchandise Mart Plz Suite 1212, Chicago, IL 60654",Chicago,41.888385,-87.636266,http://chicagoventures.com/
+133,Environmental Remediation,,,Chicago Wilderness,"411 S Wells St Suite 300, Chicago, IL 60607",Chicago,41.876389,-87.633404,https://www.chicagowilderness.org/default.aspx
+134,Environmental Remediation,,,Chicagoland Environmental Network,"3300 Golf Rd, Brookfield, IL 60513",Brookfield,41.832484,-87.836734,https://www.chicagoenvironment.org/
+135,Consulting,Engineering,Construction,"Christopher B. Burke Engineering, Ltd","820 Davis St Suite 520, Evanston, IL 60201",Evanston,42.046679,-87.682922,http://cbbel.com/projects/municipal-engineering/
+136,Consulting,Solar,Professional Services,CIC Energy Consulting LLC,"30 S Wacker Dr suite 1700, Chicago, IL 60612",Chicago,41.880974,-87.637248,http://www.cicenergyconsulting.com/
+137,Oil and Gas,Professional Services,,Cicero Oil Company,"8142 S Karlov Ave, Chicago, IL 60652",Chicago,41.744487,-87.723628,http://www.cicero-oil.com/
+138,Security/Cybersecurity,Evaluation/Compliance,,"Cimcor, Inc.","8252 Virginia St # C, Merrillville, IN 46410",Merrillville,41.467977,-87.330194,https://www.cimcor.com/
+139,Oil and Gas,Finance,Marketing,CITGO Petroleum Corporation,"3737 S Cicero Ave, Cicero, IL 60804",Cicero,41.824776,-87.742649,https://www.citgo.com/
+140,Environmental Remediation,,,Citizens for Conservation,"459 W Highway 22, Lake Barrington IL 60010",Lake Barrington,42.192297,-88.171976,https://citizensforconservation.org/
+141,Policy,Law,,Citizens Utility Board,"309 W Washington St Suite 800, Chicago, IL 60606",Chicago,41.883111,-87.635629,https://www.citizensutilityboard.org/
+142,Wave/Water/Hydro,Circular Economy,,City of Chicago Department of Streets & Sanitation,"121 N LaSalle St Room 1107, Chicago, IL 60602",Chicago,41.883893,-87.631958,https://www.chicago.gov/city/en/depts/streets.html
+143,Policy,Professional Services,,City of Darien Public Works,"1702 Plainfield Rd, Darien, IL 60561",Darien,41.74503,-87.985345,https://www.darien.il.us/
+144,Policy,Professional Services,,City of Geneva,"22 S First St, Geneva, IL 60134",Geneva ,41.88691,-88.305744,https://www.geneva.il.us/
+145,Wave/Water/Hydro,Engineering,Finance,City of Joliet,"150 W Jefferson St Floor 2 South Wing, Joliet, IL 60432",Joliet,41.524425,-88.084895,https://www.joliet.gov/residents/water-sewer
+146,Wave/Water/Hydro,Circular Economy,Utility/Grid,City of Rochelle Municipal Utilities,"333 Lincoln Hwy, Rochelle IL 61068",Rochelle,41.922568,-89.066038,https://www.rmu.net/
+147,Circular Economy,,,"City Reclamation, Inc.","2050 N Hawthorne Ave, Melrose Park, IL 60160",Melrose Park,41.913106,-87.873007,http://cityreclamationinc.com/home.html
+148,Construction,Engineering,Professional Services,"Clark Construction Group, LLC","216 S Jefferson St Suite 502, Chicago, IL 60661",Chicago ,41.878671,-87.642966,https://www.clarkconstruction.com/locations/chicago
+149,Consulting,Professional Services,Environmental Remediation,Clark Environmental Consulting,"804 S Grove Ave, Oak Park, IL 60304",Oak Park,41.87401,-87.794995,https://clarkenviro.com/
+150,Law,,,Clark Hill PLC,"130 E Randolph St Suite 3900, Chicago, IL 60601",Chicago ,41.884945,-87.623053,https://www.clarkhill.com/contents/environmental-law
+151,Solar,Energy Efficiency,Professional Services,Clean Energy Authority,"30 S Wacker Dr Suite 1700, Chicago, IL 60612",Chicago ,41.880974,-87.637248,https://www.cleanenergyauthority.com/
+152,Utility/Grid,Consulting,Energy Efficiency,"Clean Energy Solutions, LLC","1815 N Highland Ave, Arlington Heights, IL 60004",Arlington Heights,42.108709,-87.98435,http://www.centuryenergysolutions.com/
+153,Finance,Consulting,Accelerator/Incubator,Clean Energy Trust ,"20 N Wacker Dr Suite 734, Chicago, IL 60606",Chicago,41.882608,-87.637261,http://cleanenergytrust.org/
+154,Circular Economy,Oil and Gas,Professional Services,"Clean Harbors, Inc.","1445 W 42nd St, Chicago, IL 60609",Chicago ,41.817606,-87.661549,https://www.cleanharbors.com/services/technical-services/recycling-services
+155,Wind,Generation/Transmission,,Clean Line Energy Partners,"100 N LaSalle St, Chicago, IL 60602",Chicago ,41.883355,-87.632869,https://www.cleanlineenergy.com/
+156,Wave/Water/Hydro,,,"Clear2O, Inc.","1914 Raymond Dr, Northbrook, IL 60062",Northbrook,42.112138,-87.827796,https://www.clear2oinc.com/
+157,Energy Efficiency,Consulting,Utility/Grid,CLEAResult,"833 W Jackson Blvd, Chicago, IL 60607",Chicago,41.877719,-87.648678,https://www.clearesult.com/
+158,Coal,,,Coeur Mining Inc.,"104 S Michigan Ave Suite 900, Chicago, IL 60603",Chicago,41.880594,-87.624656,https://www.coeur.com/
+159,Utility/Grid,Construction,Energy Efficiency,Coles-Moultrie Electric Cooperative,"104 Dewitt Ave, East Mattoon, IL 61938",East Mattoon,39.48945,-88.349774,https://www.cmec.coop/
+160,Insurance,,,Combined Insurance,"111 E Wacker Dr Suite 700, Chicago , IL 60601 ",Chicago ,41.887622,-87.623654,https://www.combinedinsurance.com/
+161,IoT/IIoT,Finance,,COMET,"30 S Wacker Dr Suite 2200, Chicago IL 60606",Chicago,41.88097,-87.637245,https://www.trumarx.com/
+162,Utility/Grid,Professional Services,Energy Systems/Management,Commonwealth Edison Company,"3500 N California Ave, Chicago, IL 60680",Chicago,41.945189,-87.699328,https://www.comed.com/
+163,Utility/Grid,Professional Services,Energy Systems/Management,Commonwealth Edison Company,"1N423 Swift Rd, Lombard, IL 60148",Lombard,41.902285,-88.044581,https://www.comed.com/Pages/default.aspx
+164,Lighting,Marketing,Enabling Technologies/Components,Connexion,"1700 Leider Ln Suite 100, Buffalo Grove, IL 60089",Buffalo Grove,42.181784,-87.942568,connexiones.com
+165,Utility/Grid,Energy Efficiency,Professional Services,"Constellation NewEnergy, Inc.","20 N Upper Wacker Dr Suite 2100 2110B, Chicago, IL 60601",Chicago,41.882608,-87.637261,https://www.constellation.com/
+166,Consulting,Media,Engineering,Consult Subi,"172 E Fox Hill Dr, Buffalo Grove, IL 60089",Buffalo Grove,42.163213,-87.954578,https://www.consultsubi.com/
+167,Professional Services,Engineering,Construction,Continental Electrical Construction Company,"230 W Monroe Suite 1275, Chicago, IL 60606",Chicago ,41.881066,-87.634871,https://cecco.com/
+168,Professional Services,Lighting,Construction,Contractors Power and Light Company,"901 N Williams St,Thornton, IL 60476",Thornton,41.577646,-87.613086,http://www.cpandlco.com/
+169,Construction,Professional Services,Manufacturing,"Correct Construction, Inc.","2301 S King Dr, Chicago, IL 60616",Chicago ,41.85133,-87.616895,https://correct-construction.com/
+170,Environmental Remediation,,,"Council of Great Lakes Governors, Inc.","20 N Wacker Dr Suite 2700, Chicago, IL 60606",Chicago,41.882605,-87.63728,https://gsgp.org/
+171,Architecture/Design,Construction,Consulting,CPI Daylighting,"28662 N Ballard Dr, Lake Forest, IL 60045",Lake Forest,42.272758,-87.903605,https://www.cpidaylighting.com/
+172,Circular Economy,Professional Services,,"Crystal Clean, Inc.","2175 Point Blvd Suite 375, Elgin, IL 60123",Elgin,42.079423,-88.329779,https://www.crystal-clean.com/
+173,Nuclear,Consulting,Materials,CTL Group,"5400 Old Orchard Rd, Skokie, IL 60077",Skokie,42.063332,-87.762316,https://www.ctlgroup.com/
+174,Media,Engineering,,Cutting Tool Engineering,"1 Northfield Plz Suite 240, Northfield, IL 60093",Northfield,42.107776,-87.773624,https://www.ctemag.com/
+175,Consulting,Construction,Energy Efficiency,Cyclone Energy Group,"815 S Wabash Ave, Chicago, IL 60605",Chicago,41.871366,-87.625422,https://www.cyclone.energy/
+176,Construction,Professional Services,,D Kersey Construction Company,"4130 Timberlane Dr, Northbrook, IL 60062",Northbrook,42.117196,-87.880788,http://www.dkersey.com/
+177,Consulting,Engineering,Construction,dbHMS,"303 W Erie St Suite 510, Chicago, IL 60654",Chicago,41.893768,-87.635981,http://www.dbhms.com/index.html
+178,Finance,Oil and Gas,,Delphi Energy Corp.,"1879 N Neltnor Blvd, West Chicago, IL 60185",West Chicago,41.916702,-88.204893,http://www.delphienergy.ca/
+179,Construction,Environmental Remediation,Professional Services,DeNovo Constructors Inc.,"101 S Wacker Dr Suite 110LL1-50, Chicago, IL 60606",Chicago,41.880318,-87.637638,www.denovogrp.com
+180,Law,,,Dentons U.S. LLP,"233 S Wacker Dr Suite 5900, Chicago, IL 60606",Chicago,41.878879,-87.635836,https://www.dentons.com/en
+181,Enabling Technologies/Components,Manufacturing,,Deringer-Ney Inc.,"616 Atrium Dr Suite 100, Vernon Hills, IL 60061",Vernon Hills,42.23717,-87.967796,https://www.deringerney.com/products-and-capabilities/electrical-contact-manufacturing/
+182,Circular Economy,,,"Diamond Waste Disposal, LLC","8149 S Wallace St, Chicago, IL 60620",Chicago,41.745107,-87.638915,https://www.diamondwastedisposalllc.com/
+183,Circular Economy,Professional Services,,DisposAll Waste Services LLC,"5817 Ogden Ave, Cicero, IL 60804",Cicero,41.833512,-87.768534,https://www.disposallwasteservices.com/
+184,Architecture/Design,Energy Efficiency,Professional Services,DLR Group,"333 W Wacker Dr, Chicago, IL 60606",Chicago,41.886053,-87.635954,https://www.dlrgroup.com/services/energy-services/
+185,Construction,Professional Services,,"DNR Construction, Inc.","16117 S Latrobe Ave, Oak Forest, IL 60452",Oak Forest,41.59863,-87.74699,http://dnrwindows.com/
+186,Consulting,Energy Efficiency,,DNV GL,"700 Commerce Dr Suite 330, Oak Brook, IL 60523",Oak Brook,41.851474,-87.937632,https://www.dnvgl.com/
+187,Wave/Water/Hydro,Chemistry,,Dober Water Treatment,"11230 Katherines Crossing Suite 100, Woodridge, IL 60517",Woodridge,41.680411,-88.044943,https://www.dober.com/water-treatment/
+188,Consulting,Construction,Energy Efficiency,Domicile Consulting,"1016 W Jackson Blvd, Chicago, IL 60607",Chicago,41.878023,-87.652759,https://domicileconsulting.com/our-services/energy-audit
+189,Wave/Water/Hydro,Construction,,Downers Grove Sanitary District,"2710 Curtiss St, Downers Grove, IL 60515",Downers Grove,41.792996,-88.050102,https://www.dgsd.org/
+190,Law,,,Duane Morris LLP & Affiliates,"190 S LaSalle St Suite 3700, Chicago, IL 60603-3433",Chicago,41.881561,-87.632626,https://www.duanemorris.com/practices/energylaw.html
+191,Circular Economy,Enabling Technologies/Components,,"E-Scrap Technologies, Inc.","3 Northpoint Ct, Bolingbrook, IL 60440",Bolingbrook,41.683835,-88.108481,http://www.e-scraptechnologies.com/
+192,Nuclear,Materials,Manufacturing,E.H. Wachs,"600 Knightsbridge Pkwy, Lincolnshire, IL 60069",Lincolnshire,42.191688,-87.939591,https://www.ehwachs.com/
+193,Wind,Solar,Energy Efficiency,E.ON Climate & Renewables,"353 N Clark St, Chicago, IL 60654",Chicago,41.888944,-87.630468,https://www.eonenergy.com/
+194,Law,Policy,Environmental Remediation,Earth Justice,"311 S Wacker Dr Suite 1400, Chicago, IL  60606",Chicago,41.877439,-87.635642,https://earthjustice.org/
+195,Oil and Gas,Professional Services,,"Earth Solutions, Inc.","39W369 IL Route 64, St. Charles, IL 60175",St. Charles,41.931263,-88.378656,https://www.myearthsolutions.com/
+196,Solar,Wind,Professional Services,Earth Wind and Solar Energy,"2350 W Grand Ave, Chicago, IL 60612",Chicago,41.890855,-87.686255,http://www.earthwindandsolarenergy.com/
+197,Environmental Remediation,,,EarthShare Illinois,"35 E West Wacker Dr Suite 1600, Chicago, IL 60601",Chicago,41.886523,-87.626785,http://www.earthshare.org/earthshare-illinois/
+198,Consulting,Architecture/Design,Evaluation/Compliance,Eco Achievers LLC,"1647 W Fulton St, Chicago, IL 60612",Chicago,41.88665,-87.668861,http://www.ecoachievers.com/
+199,Solar,Professional Services,Finance,Eco Solar Solutions LLC,"5832 Cleveland St, Morton Grove, IL 60053",Morton Grove,42.030275,-87.773432,https://eco-solarsolutions.com/
+200,Consulting,Solar,Professional Services,EcoLogical Products,"739 N Elmwood Ave, Oak Park, IL 60302",Oak Park,41.899579,-87.786997,http://ecopro.biz/ 
+201,Consulting,Professional Services,Engineering,"Ecology and Environment, Inc.","33 W Monroe St Suite 1410, Chicago, IL 60603",Chicago,41.880287,-87.629048,http://www.ene.com/
+202,Circular Economy,Built Environment,,Edgewater Environmental Sustainability Project,"1516 W Thorndale Ave Unit 1E, Chicago, IL 60660",Chicago,41.990176,-87.668364,http://www.sustainedgewater.org/chicagos-energy-codes.html
+203,Nuclear,Engineering,Professional Services,"EDM Zap Parts, Inc.","1108 Front St, Lisle, IL 60532",Lisle,41.797076,-88.075304,http://www.edmzap.com/energy/
+204,Wind,Solar,Construction,EDP Renewables North America,"134 N LaSalle St Suite 2050, Chicago, IL 60602",Chicago,41.884114,-87.633,https://www.edpr.com/en
+205,Enabling Technologies/Components,Professional Services,Materials,EESCO,"2401 Internationale Pkwy, Woodridge, IL 60517",Woodridge,41.687473,-88.040291,https://buy.eescodist.com/
+206,Law,,,Eimer Stahl LLP,"224 S Michigan Ave Suite 1100, Chicago, IL 60604",Chicago,41.878619,-87.624922,https://www.eimerstahl.com/
+207,Enabling Technologies/Components,Materials,,EIS Inc.,"1620 Fullerton Ct, Chicago, IL 60139",Chicago,41.919547,-88.057243,https://www.eis-inc.com/
+208,IoT/IIoT,Engineering,Manufacturing,"Elan Industries, Inc.","650 S Schmidt Rd Suite A, Bolingbrook, IL 60440",Bolingbrook,41.677442,-88.087494,http://elanindustries.com/
+209,Engineering,Architecture/Design,Consulting,Elara Engineering,"30 N Wolf Rd Floor 2, Hillside, IL 60162",Hillside,41.870671,-87.902716,http://www.elaraeng.com/services-2/
+210,Consulting,Energy Systems/Management,Engineering,Elaton Energy Services,"1144 Franklin Ln, Buffalo Grove, IL 60089",Buffalo Grove,42.172736,-87.989476,https://www.elatonnrg.com/
+211,Media,,,Electric Association of Chicago,"17W733 Butterfield Rd Suite B, Oakbrook Terrace, IL 60181",Oakbrook Terrace,41.849468,-87.974726,https://www.eachicago.org/
+212,Architecture/Design,Construction,Built Environment,Electrical 3D Construct LLC,"2003 W Huron Suite 1303, Chicago, IL 60612",Chicago,41.893865,-87.677244,http://electrical3dconstruct.com/
+213,Biofuels,Manufacturing,Engineering,Elevance Renewable Sciences,"2501 Davey Rd, Woodridge, IL 60517 ",Woodridge,41.683258,-88.041449,https://elevance.com/
+214,Consulting,Solar,Energy Efficiency,Elevate Energy,"322 S Green St Suite 300, Chicago, IL 60607",Chicago,41.876975,-87.648791,https://www.elevateenergy.org/
+215,Utility/Grid,Generation/Transmission,Professional Services,"Eligo Energy, LLC","205 W Randolph St Suite 1040, Chicago, IL 60606",Chicago,41.883925,-87.634182,https://www.eligoenergy.com/
+216,Oil and Gas,Generation/Transmission,,Elwood Energy,"24391 S Patterson Rd, Elwood, IL 60421",Elwood,41.442056,-88.116089,https://jpowerusa.com/projects/elwood-energy/
+217,IoT/IIoT,Evaluation/Compliance,Finance,Enablon,"Willis Tower, 233 S Wacker Dr Suite 5420, Chicago, IL, 60606",Chicago,41.878865,-87.635918,https://enablon.com/
+218,Generation/Transmission,Oil and Gas,,Enbridge Inc.,"13755 High Rd, Lockport, IL 60441",Lockport,41.64078,-88.044917,https://www.enbridge.com/
+219,Energy Efficiency,Consulting,Professional Services,"Enel X North America, Inc.","President's Plaza 8700 W Bryn Mawr Ave, North Chicago, IL 60631",North Chicago ,41.982458,-87.842703,https://www.enelx.com/n-a/en
+220,Finance,Security/Cybersecurity,Storage,Energize Ventures LLC,"1 S Wacker Dr Suite 1620, Chicago, IL",Chicago ,41.88152,-87.635987,https://www.energize.vc/
+221,Consulting,Utility/Grid,Policy,"Energy and Environmental Economics, Inc.","20 E Jackson Blvd, Chicago, IL 60604",Chicago,41.878428,-87.626818,https://www.ethree.com/
+222,Oil and Gas,Finance,Professional Services,Energy Distribution Partners,"10 S Wacker Dr Suite 3325, Chicago, IL 60606",Chicago,41.881354,-87.637274,https://edplp.net/
+223,Finance,Accelerator/Incubator,Marketing,Energy Foundry,"18 S Michigan Ave Floor 12, Chicago, IL 60603",Chicago ,41.881495,-87.625031,http://www.energyfoundry.com/
+224,Finance,Accelerator/Incubator,Marketing,Energy Foundry,"4809 N Ravenswood Suite 414-416, Chicago, IL 60640",Chicago ,41.969374,-87.673781,http://www.energyfoundry.com/
+225,Consulting,Utility/Grid,Professional Services,Energy Me LLC,"224 N Desplaines St, Chicago, IL, 60661",Chicago,41.886597,-87.644576,https://www.energy.me/
+226,Consulting,Engineering,Energy Efficiency,"Energy Systems Group, LLC","500 Park Blvd Suite 760, Itasca, IL 60143",Itasca,41.986674,-88.017644,https://www.energysystemsgroup.com/
+227,Energy Efficiency,Professional Services,Utility/Grid,Energy360 Solutions,"781 Dillon Dr, Wood Dale, IL 60191",Wood Dale,41.979152,-87.966528,https://www.energy360solutions.com/
+228,Energy Systems/Management,Storage,Nuclear,EnergySolutions,"101 Shiloh Blvd, Zion, IL, 60099",Zion,42.451443,-87.804747,http://www.energysolutions.com/
+229,Energy Efficiency,Lighting,Professional Services,EnerLight,"5934 N Northwest Hwy Chicago, IL 60631",Chicago,41.988876,-87.793232,https://ener-light.com/
+230,Generation/Transmission,Utility/Grid,Professional Services,Engie Services U.S.,"225 W Hubbard St Chicago, IL 60654",Chicago ,41.889718,-87.635268,https://engieservices.us/office-locations-and-contacts/
+231,Generation/Transmission,Professional Services,,Enginuity Communications,"3545 Stern Ave, St. Charles, IL 60174",St.Charles,41.910388,-88.275307,http://www.enginuitycommunications.com/
+232,Consulting,Energy Efficiency,Storage,"Enovation Partners, LLC","332 S Michigan Ave Suite 121-E379, Chicago, IL 60604",Chicago,41.877287,-87.624626,https://www.enovationpartners.com/
+233,Policy,Environmental Remediation,,Environment Illinois,"17 N State St Suite 1330, Chicago, IL 60602",Chicago,41.882696,-87.627384,https://environmentillinois.org/
+234,Environmental Remediation,Circular Economy,Professional Services,Environmental Cleansing Corporation,"16602 Crawford Ave, Markham, IL 60428",Markham,41.588197,-87.714789,https://eccdemolition.com/
+235,Environmental Remediation,Consulting,Professional Services,Environmental Consulting Group,"411 S Wells St, Chicago, IL 60607",Chicago,41.876389,-87.633404,https://www.ecgmidwest.com/
+236,Environmental Remediation,Consulting,Engineering,Environmental Group Services Limited,"557 W Polk St Suite 201, Chicago, IL 60607",Chicago,41.87176,-87.641967,http://www.egsl.com/
+237,Law,Policy,Consulting,Environmental Law & Policy Center,"35 E Wacker Dr Suite 1600 Chicago, IL 60601",Chicago,41.886629,-87.626799,http://elpc.org/
+238,Law,Evaluation/Compliance,,"Environmental Law Counsel, P.C.","180 N LaSalle St Suite 3700, Chicago, IL 60601",Chicago,41.885485,-87.632921,http://environmentallawcounsel.com/
+239,Environmental Remediation,Construction,,Environmental Protection Industries,"16650 S Canal St, South Holland, IL 60473",South Holland,41.592345,-87.627283,http://www.environmental-epi.com/
+240,Consulting,Engineering,Energy Efficiency,"Environmental Systems Design, Inc.","233 S Wacker Dr Suite 5300, Chicago, IL 60606",Chicago ,41.877873,-87.6332,www.esdglobal.com
+241,Enabling Technologies/Components,Manufacturing,,"Essex Electro Engineers, Inc.","2015 Mitchell Blvd, Schaumburg, IL 60193",Schaumburg,41.98946,-88.091477,https://essexelectro.com/about-us/
+242,Environmental Remediation,,,Evanston Environmental Association,"2024 McCormick Blvd, Evanston 60201",Evanston,42.056657,-87.700749,https://evanstonenvironment.org/
+243,Lighting,Professional Services,Construction,Evergreen Electric Supply,"312 N May St, Chicago, IL 60607",Chicago,41.887511,-87.656031,https://www.evergreensupply.com/
+244,Lighting,Professional Services,Construction,Evergreen Electric Supply,"8402 183rd St Suite B, Tinley Park, IL 60487",Tinley Park,41.557383,-87.822588,https://www.evergreensupply.com/
+245,Construction,Lighting,Circular Economy,EverLights Inc,"1105 Stevenson Ct Suite 104e, Roselle, IL 60172",Roselle,41.985143,-88.053314,https://www.everlights.com/
+246,Security/Cybersecurity,Academia/Research,,Evolve Security,"222 W Merchandise Mart Plz Suite 1212, Chicago, IL 60654",Chicago,41.888403,-87.635455,https://www.evolvesecurity.io/
+247,Utility/Grid,Generation/Transmission,Energy Systems/Management,Exelon Corporation,"10 S Dearborn St, Chicago, IL 60603",Chicago,41.881424,-87.629724,https://www.exeloncorp.com/
+248,Nuclear,Utility/Grid,,Exelon Corporation,"3 Lincoln Ctr, Villa Park, IL 60181",Villa Park,41.848035,-87.983154,https://www.exeloncorp.com/
+249,Storage,Engineering,Consulting,Exponent,"525 W Monroe St Suite 1050, Chicago, IL 60661",Chicago,41.880328,-87.640348,https://www.exponent.com/
+250,Nuclear,Professional Services,Energy Systems/Management,F.E. Moran,"118 N Clinton Ave, Chicago, IL 60661",Chicago,41.883843,-87.641659,https://www.femoran.com/
+251,Circular Economy,Professional Services,,Falcon Green Resources,"2200 Graham St, Bartlett, IL 60103",Bartlett,42.010426,-88.260553,https://www.falcongreenresources.com/
+252,Circular Economy,,,FamilyFarmed,"225 W Hubbard St Suite 650, Chicago, IL 60654",Chicago,41.889714,-87.63526,https://familyfarmed.org/
+253,Media,Policy,,Farm Energy ,"35 E Wacker Dr Suite 1600, Chicago, IL  60601",Chicago,29.607582,-98.5047,http://farmenergy.org/
+254,Architecture/Design,,,Farr Associates,"53 W Jackson Blvd, Chicago, IL 60604",Chicago,41.877979,-87.629566,https://www.farrside.com/
+255,Coal,,,FCDH Cayman Ltd,"645 N Michigan Ave Suite 800, Chicago, IL 60611
+",Chicago,41.893884,-87.623649,
+256,Oil and Gas,Mobility as a Service,,Feece Oil Co.,"1700 Hubbard Dr, Batavia, IL 60510",Batavia,41.859142,-88.271601,https://www.feeceoilfuel.com/
+257,Oil and Gas,Mobility as a Service,,Feece Oil Co.,"517 Twin Rail Dr, Minooka, IL 60447",Minooka,41.451873,-88.275884,https://www.feeceoilfuel.com/
+258,Oil and Gas,Mobility as a Service,,Feece Oil Co.,"622 E Stevenson Rd, Ottawa, IL 61350",Ottawa,41.380187,-88.825931,https://www.feeceoilfuel.com/
+259,Oil and Gas,Mobility as a Service,,Feece Oil Co.,"3031 Eldamain Rd, Plano, IL 60545",Plano,41.673899,-88.488911,https://www.feeceoilfuel.com/
+260,Academia/Research,Accelerator/Incubator,,Fermi National Accelerator Laboratory,"1358 Pine St, Batavia, IL 60510",Batavia,41.840393,-88.279856,http://www.fnal.gov/
+261,Finance,Marketing,,First Analysis Corporation,"1 S Wacker Dr Suite 3900, Chicago, IL 60606
+",Chicago,41.88152,-87.635987,https://www.firstanalysis.com/Home.aspx
+262,Wave/Water/Hydro,,,Flagg Creek Water Reclamation District,"7001 N Frontage Rd, Burr Ridge, IL 60527",Burr Ridge,41.762376,-87.905997,https://flaggcreekwrd.org/
+263,Enabling Technologies/Components,Professional Services,,Flolo Corporation,"1400 Harvester Rd, West Chicago, IL 60185",West Chicago,41.901723,-88.230121,http://www.flolo.com/
+264,Circular Economy,,,Flood Brothers Disposal,"17W609 14th St, Oakbrook Terrace, IL 60181",Oakbrook Terrace,41.856604,-87.974678,https://www.floodbrothersdisposal.com/
+265,Circular Economy,Evaluation/Compliance,,"Fluorecycle, Inc.","27780 W Concrete Dr, Ingleside, IL 60041",Ingleside,42.335663,-88.174693,http://www.fluorecycle.com/
+266,Consulting,Professional Services,,Foresight Design Initiative,"4619 N Ravenswood Ave Suite 305, Chicago, IL 60640",Chicago,41.965955,-87.673595,https://www.foresightdesign.org/
+267,Wave/Water/Hydro,Engineering,,Fox Metro Water Reclamation District,"682 State Rte 31, Oswego, IL 60543",Oswego,41.716534,-88.352542,https://www.foxmetro.org/
+268,Wave/Water/Hydro,,,Fox River Water Reclamation District,"1957 N LaFox, South Elgin, IL 60177",South Elgin,42.011911,-88.284325,https://www.frwrd.com/
+269,Utility/Grid,Energy Efficiency,Professional Services,Franklin Energy,"5450 N Cumberland Ave Suite 125, Chicago, IL 60656",Chicago,41.978868,-87.837412,https://www.franklinenergy.com/
+270,Law,Policy,,Freeborn & Peters LLP,"311 S Wacker Dr Suite 3000, Chicago, IL 60606",Chicago,41.877439,-87.635642,https://www.freeborn.com/
+271,Environmental Remediation,,,Friends of the Chicago River,"411 S Wells St Suite 800, Chicago, IL 60607",Chicago,41.876389,-87.633404,https://www.chicagoriver.org/
+272,Environmental Remediation,,,Friends of the Forest Preserves,"411 S Wells St Suite 300, Chicago, IL 60607",Chicago,41.876389,-87.633404,http://www.fotfp.org/
+273,Consulting,Utility/Grid,Engineering,G&W Electric,"245 W Crossroads Pkwy, Bolingbrook, IL 60440",Bolingbrook,41.674122,-88.069956,https://www.gwelectric.com/
+274,Circular Economy,Professional Services,,G2 Revolution,"8585 Pyott Rd, Lake in the Hills, IL 60156",Lake in the Hills,42.204586,-88.316286,https://www.g2rev.com/#1
+275,Environmental Remediation,Consulting,Professional Services,Gabriel Environmental Services,"1421 N Elston Ave, Chicago, IL 60642",Chicago,41.907861,-87.66,https://gabrielenvironmental.com/
+276,Finance,,,Gaebler Ventures,"301 Forest Ave, River Forest, IL 60305",River Forest,41.884762,-87.821028,http://www.gaebler.com/
+277,Wind,Manufacturing,,Gaelectric North America Inc.,"200 S Wacker Dr Suite 3100, Chicago, IL 60606",Chicago,41.878949,-87.637268,http://www.gaelectric.ie/
+278,Circular Economy,Environmental Remediation,,Gaia Movement USA,"8918 S Green St, Chicago, IL 60620",Chicago,41.731893,-87.64514,https://www.gaia-movement-usa.org/
+279,Wave/Water/Hydro,Engineering,Chemistry,Garratt-Callahan Company,"340 S La Londe Ave, Addison, IL 60101",Addison,41.920782,-88.007639,https://garrattcallahan.com/
+280,Oil and Gas,Construction,Finance,Gas Depot Oil Corporation,"8930 Waukegan Rd Suite 230, Morton Grove, IL, 60053",Morton Grove,42.043649,-87.799634,http://www.gasdepot.com/
+281,Consulting,Oil and Gas,Energy Systems/Management,Gas Operations Innovation Alliance,"203 N Lasalle St Suite 2100, Chicago, IL, 60601",Chicago,41.886154,-87.631501,https://gasopsalliance.com/
+282,Finance,Consulting,Marketing,GE Ventures,"500 W Monroe St, Chicago, IL 60661",Chicago,41.880836,-87.64008,https://www.ge.com/ventures/portfolio
+283,Biofuels,Manufacturing,,General Biomass Company,"2906 Central St Suite 134, Evanston, IL 60201 ",Evanston,42.064281,-87.714914,http://www.generalbiomass.com/
+284,Utility/Grid,Manufacturing,Enabling Technologies/Components,General Electric,"709 W Wall St, Morrison, IL",Morrison,41.81096,-89.978112,https://www.ge.com/
+285,Thermal Energy ,Energy Systems/Management,Energy Efficiency,GeoThermal Energy Solutions,"3000 Dundee Rd, Northbrook, 60062",Northbrook,42.139026,-87.854525,https://www.geotsolutions.com/home/
+286,Wind,Professional Services,,Geronimo Energy,"7650 Edinborough Way Suite 725 , Edina, MN, 55435",Edina,41.955303,-87.679902,https://geronimoenergy.com/
+287,Enabling Technologies/Components,Energy Systems/Management,Materials,Ghalib Enterprises Inc.,"5875 N Lincoln Ave Ste 104, Chicago, IL 60659",Chicago,41.988426,-87.703584,http://www.ghalibusa.com/
+288,Finance,Professional Services,Finance,GI Energy,"150 N Michigan Ave Ste 1250, Chicago, IL 60601",Chicago,41.884782,-87.624961,https://gienergyus.com/
+289,Storage,Wind,Solar,GlidePath,"132 N York St, Elmhurst, IL 60126",Elmhurst,41.900955,-87.940249,https://glidepath.net/
+290,Utility/Grid,Oil and Gas,Energy Systems/Management,Global Energy,"150 N Michigan Ave Suite 2800, Chicago, IL 60601",Chicago,41.884782,-87.624961,https://www.globalenergy.net/
+291,Consulting,,,Goby Inc.,"33 N LaSalle St Suite 500, Chicago, IL 60602",Chicago,41.88286,-87.632155,https://www.gobyinc.com/
+292,Wind,Manufacturing,Professional Services,Goldwind Americas,"20 N Wacker Dr, Chicago, IL, 60606",Chicago,41.882608,-87.637261,https://www.goldwindamericas.com/
+293,Environmental Remediation,Construction,Professional Services,"Grand Slam Construction, LLC","3805 Illinois Ave, ​St. Charles, IL 60174",​St. Charles,41.917225,-88.266269,http://www.grandslamcllc.com/environmental-remediation-services-chicago/
+294,Thermal Energy ,Energy Systems/Management,Professional Services,Great Lakes Geothermal,"1151 Atlantic Dr Suite 4, West Chicago, IL 60185",West Chicago,41.903906,-88.21637,http://greatlakesgeothermal.com/
+295,Oil and Gas,,,"GreatPoint Energy, Inc.","2215 W Harrison St, Chicago, IL 60612",Chicago,41.873656,-87.682015,http://www.greatpointenergy.com/
+296,Energy Efficiency,Professional Services,,"Green Attic Insulation, Inc.","409 W Algonquin Rd, Mt. Prospect, IL 60056",Mt. Prospect,42.029491,-87.942658,https://greenatticinsulation.com/
+297,Consulting,Energy Efficiency,Professional Services,Green Dream Group,"5756 N Ridge Ave Suite 1, Chicago, IL 60660",Chicago,41.986494,-87.665164,http://www.greendreamgroup.com/
+298,Consulting,Energy Systems/Management,Professional Services,"Green Energy International, LLC","1124 Langley Cir, Naperville, IL 60563, US",Naperville,41.790214,-88.194921,https://greenenergyinternational.org/
+299,Solar,Wind,Energy Efficiency,Green Power Works Inc.,"6124 N Milwaukee Ave Suite 3, Chicago, IL 60646",Chicago,41.992744,-87.783959,https://greenpowerworksinc.com/
+300,Law,Oil and Gas,,"Greenberg Traurig, LLP","77 W Wacker Dr Suite 3100, Chicago, IL 60601",Chicago,41.886423,-87.630748,https://www.gtlaw.com/en
+301,Oil and Gas,Professional Services,,"GreenChem Petroleum, Inc.","2150 W 43rd St, Chicago, IL 60609",Chicago,41.815859,-87.679084,https://www.greenchempetroleum.com/
+302,Construction,Energy Efficiency,Professional Services,"Greenline Homes, LLC","6625 S Ingleside Ave, Chicago, IL 60637",Chicago,41.774188,-87.601845,https://www.greenlinehomes.com/
+303,Solar,Professional Services,,GRNE Solar,"230 N Hicks Pl, Palatine, IL 60067",Palatine,42.114506,-88.034907,https://www.grnesolar.com/
+304,Circular Economy,,,Groot ,"1565 Aurora Ave Ln, Aurora, IL 60505",Aurora,41.78891,-88.310382,https://www.groot.com/
+305,Circular Economy,,,Growing Home,"825 W 69th Floor 2, Chicago, IL 60621",Chicago,41.768577,-87.645571,http://growinghomeinc.org/
+306,Architecture/Design,Energy Efficiency,Consulting,Grumman/Butkus Associates,"820 Davis St, Evanston, IL 60201",Evanston,42.046679,-87.682922,http://grummanbutkus.com/
+307,Academia/Research,Consulting,Professional Services,GTI,"1700 S Mount Prospect Rd, Des Plaines, IL  60018",Des Plaines,42.019741,-87.922034,https://www.gti.energy/
+308,Consulting,Utility/Grid,Finance,Guidehouse,"150 N Riverside Plz Suite 2100, Chicago, IL 60606",Chicago,41.885369,-87.638534,https://guidehouse.com/capabilities/industries/energy
+309,Energy Efficiency,Utility/Grid,Professional Services,Gurtz Electric Co.,"77 W Seegers Rd, Arlington Heights, IL, 60005",Arlington Heights,42.04876,-87.986703,http://www.gurtzelectric.com/
+310,Enabling Technologies/Components,Manufacturing,,Gus Berthold Electric Co.,"1900 W Carroll Ave, Chicago, IL 60612",Chicago,41.887965,-87.674926,https://bertholdelectric.com/
+311,Circular Economy,Construction,,Habitat For Humanity Chicago,"1100 W Cermak Rd Suite 404, Chicago, IL 60608",Chicago,41.852722,-87.653718,https://www.habitatchicago.org/
+312,Security/Cybersecurity,Evaluation/Compliance,Professional Services,HALOCK,"1834 Walden Office Sq Suite 200, Schaumburg, IL 60173",Schaumburg,42.063044,-88.035195,https://www.halock.com/
+313,Construction,Professional Services,Energy Efficiency,Hardt Electric Inc.,"4909 N Elston Ave, Chicago, IL 60630",Chicago,41.969945,-87.74271,http://www.hardtelectric.com/services/sustainability/
+314,Academia/Research,,,Harper College Sustainability,"1200 W Algonquin Rd Building B Room B119, Palatine, IL 60067",Palatine,42.081453,-88.072626,https://www.harpercollege.edu/about/consumerinfo/sustainability/index.php
+315,Solar,Consulting,,Harvest NRG Corp.,"639 W Diversey Pkwy, Chicago, IL 60614",Chicago,41.932693,-87.645286,https://www.harvest-nrg.com/
+316,Solar,Professional Services,,Headline Solar,"111 S Wacker Dr Suite 56, Chicago, IL 60606",Chicago,41.880383,-87.636522,http://headlinesolar.com/
+317,Solar,Storage,Professional Services,Hecate Energy,"621 W Randolph St, Chicago, IL 60661",Chicago,41.884217,-87.64368,http://www.hecateenergy.com/
+318,Storage,Wind,Solar,Heindl Energy,"321 N Clark St Suite 1425, Chicago, IL 60654-4714",Chicago,41.88821,-87.630622,https://heindl-energy.com/
+319,Solar,Manufacturing,Engineering,"Hitachi High-Tech America, Inc.","10 N Martingale Rd Suite 500, Schaumburg, IL 60173",Schaumburg,42.025733,-88.032564,https://www.hitachi-hightech.com/us/product_detail/?pn=ind-hta-rnw-001
+320,Architecture/Design,Professional Services,Consulting,"HKS, Inc.","125 S Clark St, Chicago, IL 60603",Chicago,41.879931,-87.630517,https://www.hksinc.com/what-we-do/services/sustainable-design/
+321,Finance,Utility/Grid,Marketing,"Hovey Energy, LLC","4000 N Lincoln Ave Floor 2, Chicago, IL 60618",Chicago,41.954307,-87.679268,http://hoveyenergy.indiemade.com/
+322,Solar,Construction,Engineering,Huen Electric,"1801 W 16th St, Broadway, IL 60155",Broadway,41.856967,-87.855666,https://www.huenelectric.com/project-category/renewable-energy/
+323,Law,Finance,,Husch Blackwell LLP,"120 S Riverside Plz Suite 2200, Chicago, IL 60606",Chicago,41.879939,-87.639277,https://www.huschblackwell.com/industries_services/Energy
+324,Wave/Water/Hydro,Generation/Transmission,,Hydro Green Energy,"900 Oakmont Ln Suite 310, Westmont, IL 60559",Westmont,41.821789,-87.954156,http://hgenergy.com/index.php
+325,Nuclear,Wave/Water/Hydro,Engineering,"Hydro, Inc.","834 W Madison St, Chicago, IL 60607",Chicago,41.882294,-87.649133,http://www.hydroinc.com/
+326,Environmental Remediation,Consulting,Professional Services,"Hygieneering, Inc.","7575 Plaza Ct, Willowbrook, IL 60527",Willowbrook,41.751473,-87.936506,https://www.hygieneering.com/
+327,Law,,,Ice Miller LLP,"200 W Madison St Suite 3500, Chicago, IL 60606",Chicago,41.882263,-87.634447,https://www.icemiller.com/
+328,Security/Cybersecurity,Consulting,,Identity Logix,"10048 Wellington Terrace, Munster, IN 46321",Munster,41.528625,-87.492105,https://www.identitylogix.com/
+329,Utility/Grid,Utility/Grid,Professional Services,IGS,"1751 Lake Cook Rd Suite 270, Deerfield, IL 60015",Deerfield,42.15093,-87.870512,https://www.igs.com/
+330,Storage,Solar,Engineering,IHI Energy Storage,"100 N Riverside Plz, Chicago, IL 60606",Chicago,41.884133,-87.638837,https://www.ihi-energystorage.com/
+331,Finance,Energy Efficiency,Wave/Water/Hydro,Illinois Clean Energy Community Foundation,"2 N LaSalle, Suite 1140, Chicago, IL 60602",Chicago,41.882381,-87.632597,https://www.illinoiscleanenergy.org/
+332,Environmental Remediation,Construction,Engineering,"Illinois Drilling & Testing Co., Inc.","1752 Armitage Ct, Addison, IL 60101",Addison,41.91312,-88.029037,http://www.illinoisdrilling.com/
+333,Consulting,Solar,Utility/Grid,"Illinois Energy Aggregation, LLC","9713 Southwest Hwy, Oak Lawn, IL 60453",Oak Lawn,41.715286,-87.772893,http://www.illinoisenergyaggregation.com/
+334,Utility/Grid,Oil and Gas,Professional Services,"Illinois Energy, USA, LLC","1751 W Diehl Rd Suite 200, Naperville, IL 60563",Naperville,41.801792,-88.205114,https://www.illenergy.com/
+335,Utility/Grid,Oil and Gas,Generation/Transmission,Illinois Gas & Electric,"27 N Upper Wacker Dr Suite 703, Chicago, IL 60606-2800 ",Chicago,41.882844,-87.636617,https://www.ilgande.com/
+336,Academia/Research,,,"Illinois Institute of Technology, Robert W. Galvin Center for Electricity Innovation","10 W 35th St IIT Tower Floor 16, Chicago, IL 60616",Chicago,41.834873,-87.627006,http://www.iitmicrogrid.net
+337,Academia/Research,,,"Illinois Institute of Technology, Wagner Institute for Sustainable Energy Research","10 W 35th St IIT Tower Floor 16, Chicago, IL 60616",Chicago,41.834873,-87.627006,https://web.iit.edu/wiser
+338,Policy,Professional Services,,Illinois Nature Preserves Commission ,"7210 Keystone Rd, Richmond, IL",Richmond,42.426793,-88.326694,https://www.dnr.illinois.gov/INPC/Pages/default.aspx
+339,Policy,Utility/Grid,Consulting,Illinois Power Agency,"160 N La Salle St Suite C504, Chicago, IL 60601",Chicago,41.88487,-87.63306,http://www.ipa-energyrfp.com/
+340,Energy Efficiency,Academia/Research,,Illinois Renewable Energy Association,"1230 E Honey Creek Rd, Oregon, IL 61061",Oregon,41.984348,-89.315328,https://www.illinoisrenew.org/
+341,Solar,Policy,,Illinois Solar Energy Association,"1281 E Brummel Ave, Elk Grove Village, IL 60007",Elk Grove Village,42.017055,-87.967754,https://illinoissolar.org/
+342,Finance,,,Impact Engine,"222 W Merchandise Mart Plz Suite 1212, Chicago, IL",Chicago,41.88841,-87.63545,https://www.theimpactengine.com/
+343,Energy Efficiency,Engineering,Professional Services,InBalance Buildings,"430 N Michigan Ave Suite 2, Chicago, IL 60611",Chicago,41.890336,-87.624701,https://inbalancebuildings.com/
+344,Finance,Utility/Grid,Construction,"Indeck Energy Services, Inc.","600 N Buffalo Grove Rd Ste 300, Buffalo Grove, IL 60089",Buffalo Grove,42.164797,-87.96614,https://www.indeckenergy.com/
+345,Coal,Manufacturing,,Indiana Harbor Cokemaking Operations,"3210 Watling St, East Chicago, IN 46312",East Chicago,41.954391,-87.48626,https://usa.arcelormittal.com/our-operations/cokemaking
+346,Consulting,Engineering,Biofuels,"Indigenous Energy, LLC","115 N Oak Park Ave Suite 203, Oak park, IL 60301",Oak park,41.887865,-87.79472,https://www.indigenous-energy.com/renewable%20energy.html
+347,Security/Cybersecurity,Marketing,Engineering,Infosys,"2300 Cabot Dr Suite 575, Lisle, IL 60532",Lisle,41.810436,-88.097953,https://www.infosys.com/
+348,Consulting,Utility/Grid,Energy Systems/Management,Inova Energy Group,"4444 N Damen Ave, Chicago, IL 60625",Chicago,41.96289,-87.679023,https://www.inovaenergygroup.com/
+349,Consulting,Construction,Professional Services,"Insight Property Services, Inc.","115 E Ogden Ave suite 117, Naperville, IL 60563",Naperville,41.786802,-88.146435,https://www.insightpsinc.com/
+350,IoT/IIoT,Utility/Grid,Solar,Intelligent Generation,"100 N Riverside Plz Suite 1670, Chicago, IL 60606",Chicago,41.884135,-87.638843,https://intelgen.com/
+351,Finance,Oil and Gas,,"Intercontential Exchange, Inc.","353 N Clark St Suite 3100, Chicago, Il 60654",Chicago,41.888918,-87.630123,https://www.theice.com/otc-energy
+352,Construction,Utility/Grid,Environmental Remediation,"INTREN, LLC","18202 W Union Rd, Union, IL 60180",Union,42.234386,-88.552453,https://www.intren.com/
+353,Wind,Storage,,Invenergy LLC,"1 S Wacker Dr, Chicago, IL 60606",Chicago,41.88152,-87.635987,https://invenergyllc.com/
+354,Wind,Energy Efficiency,Storage,"Invenergy, LLC","1 S Wacker Dr, Chicago, IL 60606",Chicago,41.88152,-87.635987,https://invenergyllc.com/
+355,Storage,Manufacturing,Engineering,Inventus Power,"1200 Internationale Pkwy, Woodridge, IL 60517",Woodridge,41.697088,-88.01213,https://inventuspower.com/
+356,Finance,Professional Services,Generation/Transmission,"Ironclad Energy Partners, LLC","500 Waters Edge Suite 320, Lombard, IL 60148",Lombard,41.851843,-88.027178,https://ironclad-energy.com/
+357,Thermal Energy ,Professional Services,Energy Efficiency,J&R Herra Geothermal,"11944 Ehlers Rd, Elburn, IL 60119",Elburn,41.805676,-88.604724,http://www.jrherrageothermal.com/Chicago-Geothermal.html
+358,Environmental Remediation,Consulting,Wave/Water/Hydro,Jacobs,"525 W Monroe St Suite 1600, Chicago, IL 60661",Chicago,41.88033,-87.640346,https://www.jacobs.com/capabilities/environmental
+359,Law,Evaluation/Compliance,,Jenner & Block,"353 N Clark St, Chicago, IL 60654-3456",Chicago,41.888716,-87.630161,https://jenner.com/practices/114
+360,Nuclear,Security/Cybersecurity,Consulting,Jensen Hughes,"600 W Fulton St Suite 500, Chicago, IL 60661",Chicago,41.887096,-87.643232,https://www.jensenhughes.com/industries/power
+361,Consulting,Professional Services,,"JMS Environmental Associates, Ltd.","816 Burr Oak Dr, Westmont, IL 60559",Westmont,41.815034,-87.973648,http://www.jmsenviro.com/
+362,Consulting,Wave/Water/Hydro,Professional Services,John A. Raber & Associates,"4314 W Crystal Lake Rd, McHenry, IL 60050",McHenry,42.340883,-88.28451,https://www.johnraber.com/
+363,Oil and Gas,Wave/Water/Hydro,Professional Services,John Crane,"227 W Monroe St Suite 1800, Chicago, IL 60606 ",Chicago,41.88026,-87.634682,https://www.johncrane.com/industries/oil-gas
+364,Solar,Materials,Manufacturing,Johnson Bros. Metal Forming Co.,"5744 McDermott Dr, Berkeley, IL 60163",Berkeley,41.893424,-87.910955,https://www.johnsonrollforming.com/Solar-Panel-Frames.htm
+365,Security/Cybersecurity,Professional Services,,Johnson Controls,"101 N Wacker Dr, Chicago, IL 60606",Chicago,41.883567,-87.636461,https://www.tycois.com/
+366,Academia/Research,Enabling Technologies/Components,Storage,Joint Center for Energy Storage Research,"9700 S Cass Ave, Lemont, IL 60439",Lemont,41.71298,-87.960781,https://www.jcesr.org/
+367,Consulting,Professional Services,Finance,"Jones Lang LaSalle IP, Inc.","200 E Randolph Dr, Chicago, IL 60601",Chicago,41.885283,-87.621512,https://www.us.jll.com/en/industries/energy
+368,Consulting,Engineering,Professional Services,K-Plus Engineering Services,"15 Spinning Wheel Rd Suite 320, Hinsdale, IL 60521",Hinsdale,41.820867,-87.919025,http://www.kplus.us/services/environmental_engineering.aspx
+369,Circular Economy,Professional Services,Construction,"K. Hoving Recycling & Disposal, Inc.","3N551 Powis Rd, West Chicago, IL 60185",West Chicago,41.923726,-88.237531,https://www.khoving.com/
+370,Solar,Professional Services,,"Kapital Electric, Inc.","1240 Mark St, Bensenville, IL 60106",Bensenville,41.988868,-87.961668,https://www.kapitalelectric.com/
+371,Law,,,Katten Muchin Rosenman LLP,"525 W Monroe St, Chicago, IL 60661",Chicago,41.88033,-87.640346,https://www.kattenlaw.com/energy
+372,Security/Cybersecurity,,,"Keeper Security, Inc.","850 W Jackson Blvd Suite 500, Chicago, IL 60607",Chicago,41.878047,-87.649296,https://keepersecurity.com/
+373,Oil and Gas,Marketing,Materials,Keller Heartt Oil,"4411 S Tripp Ave, Chicago, IL 60632",Chicago,41.813111,-87.729499,https://www.kellerheartt.com/
+374,Oil and Gas,Marketing,,"Ken's Oil Service, Inc.","703 N Center St, Forrest, IL 61741",Forrest,40.75606,-88.410356,https://www.kensoilservice.net/
+375,Consulting,Energy Systems/Management,Energy Efficiency,KenJiva Energy Systems LLC,"3440 S Dearborn St, Chicago, IL 60616",Chicago,41.832178,-87.62832,https://kenjiva.net/
+376,Security/Cybersecurity,Academia/Research,,Kenna Security,"800 W Washington Blvd, Chicago, IL 60607",Chicago,41.883347,-87.647616,https://www.kennasecurity.com/
+377,Enabling Technologies/Components,Construction,Professional Services,Keystone Electric,"1443 Lahon St, Park Ridge, IL 60068",Park Ridge,42.021942,-87.845194,
+378,Law,Construction,Oil and Gas,Kirkland & Ellis LLP,"300 N LaSalle, Chicago, IL 60654",Chicago,41.888099,-87.632742,https://www.kirkland.com/services/practices/transactional/energy-and-infrastructure
+379,Construction,Construction,Evaluation/Compliance,"KS Energy Services, LLC","301 Arthur Ave, Mt. Prospect, IL 60056",Mt. Prospect,41.948199,-87.889185,https://ksenergy.us/
+380,Architecture/Design,Solar,,Kuma Energy,"850 W Jackson St, Chicago, IL 60607",Chicago,41.878155,-87.649205,https://kumaenergy.com/
+381,Oil and Gas,,,L.J. Keefe Co.,"704 W Central Rd, Mt. Prospect, IL 60056",Mt. Prospect,42.066595,-87.946894,http://www.ljkeefeco.com/
+382,Enabling Technologies/Components,Storage,Manufacturing,La Marche Manufacturing Company,"106 Bradrock Dr, Des Plaines, IL 60018",Des Plaines,42.021078,-87.916553,https://www.lamarchemfg.com/
+383,Coal,,,Lafayette Coal Company,"15 Salt Creek Ln, Hinsdale, IL 60521",Hinsdale,41.820905,-87.920707,
+384,Environmental Remediation,,,Lake Bluff Open Lands Association,"250 Rockland Rd, Lake Bluff, IL 60044",Lake Bluff,42.643235,-87.931857,http://www.lbola.org/
+385,Environmental Remediation,,,Lake Forest Open Lands Association,"350 N Waukegan Rd, Lake Forest, IL 60045",Lake Forest,42.245386,-87.876842,http://www.lfola.org/
+386,Oil and Gas,Finance,Construction,Lake Shore Petroleum LLC,"10 E 22nd St Suite 210, Lombard, IL 60148",Lombard,41.846006,-88.015166,http://www.lspetroleum.com/
+387,Finance,Biofuels,Circular Economy,Lakeview Energy LLC,"300 W Adams St, Chicago, IL 60606",Chicago,41.87948,-87.635666,https://www.lakeviewenergyllc.com/
+388,Biofuels,Manufacturing,,LanzaTech,"8045 Lamon Ave Suite 400, Skokie, IL 60077",Skokie,42.027973,-87.749499,https://www.lanzatech.com/
+389,Law,,,Latham & Watkins LLP,"330 N Wabash Ave Suite 2800, Chicago, IL 60611",Chicago,41.88863,-87.627499,https://www.lw.com/
+390,Law,,,Law Offices of Shell J. Bleiweiss,"203 N LaSalle St Suite 2100, Chicago, IL 60601",Chicago,41.886139,-87.631541,https://shell-bleiweiss.com/
+391,Enabling Technologies/Components,Oil and Gas,,Leahy-Wolf Company,"1724 Armitage Ct, Addison, IL 60101",Addison,41.915045,-88.02943,http://www.leahywolf.com/
+392,Consulting,Nuclear,Engineering,"LeBlond & Associates, LLC","424 Ridgewood Ln, Libertyville, IL 60048",Libertyville,42.286747,-87.977617,http://www.leblondassociates.com/
+393,Oil and Gas,Generation/Transmission,,Lee County Generating Station,"1674 Red Brick Rd, Dixon, IL, 51021",Dixon,41.827135,-89.41978,https://www.naes.com/locations/lee-county-generating-station/
+394,Wind,Oil and Gas,Manufacturing,Leeco Steel,"1011 Warrenville Rd, Lisle, IL 60532",Lisle,41.807116,-88.074273,https://www.leecosteel.com/
+395,Wind,Generation/Transmission,,"Leeward Renewable Energy, LLC","2612 Shady Oaks Rd, West Brooklyn, IL 61378",West Brooklyn,41.671854,-89.127344,https://www.leewardenergy.com/
+396,Solar,Engineering,Energy Efficiency,Leidos,"200 N LaSalle Blvd Suite 700, Chicago, IL 60601",Chicago,41.886056,-87.633023,https://www.leidos.com/ 
+397,Insurance,,,Liberty Mutual Insurance,"2815 Forbs Ave Suite 200, Hoffman Estates, IL 60192",Hoffman Estates,42.072683,-88.197212,www.libertymutualgroup.com
+398,Circular Economy,,,"Liberty Waste & Recycling Services, Inc.","24821 N Gilmer Rd, Mundelein, IL 60060-9452",Mundelein,42.228056,-88.034049,https://libertywaste.com/
+399,Finance,Utility/Grid,Consulting,Lincoln Energy Group LLC,"121 W Wacker Dr Suite 1440, Chicago, IL 60601",Chicago,41.886671,-87.632017,http://www.lincolnenergygroup.com/
+400,Environmental Remediation,,,Lincoln Park Conservancy,"2000 N Racine Ave Suite 4800, Chicago, IL 60614",Chicago,41.918231,-87.658446,http://lincolnparkconservancy.org/
+401,Oil and Gas,Engineering,,Linde PLC,"7309 Hamilton Ave, WIllowbrook, IL 60527",WIllowbrook,41.756043,-87.92151,https://www.linde.com/en
+402,Environmental Remediation,Oil and Gas,Wave/Water/Hydro,Liquid Environmental Solutions,"12123 S Stony Island Ave, Chicago, IL 60633",Chicago,41.674008,-87.574065,https://www.liquidenviro.com/
+403,Enabling Technologies/Components,Materials,Professional Services,"Littelfuse, Inc.","8755 W Higgins Rd, Chicago, IL 60631",Chicago,41.986478,-87.845267,https://www.littelfuse.com/ 
+404,Environmental Remediation,Policy,,Little Village Environmental Justice Organization,"2445 S Spaulding Ave, Chicago, IL 60623",Chicago,41.846756,-87.707291,http://www.lvejo.org/ 
+405,Circular Economy,Construction,,"Loop Paper Recycling, Inc.","2401 S Laflin St, Chicago, IL 60608",Chicago,41.848093,-87.662981,http://www.recyclingit.com/
+406,Consulting,Finance,Professional Services,"LowerElectric, LLC","1307 N Shermer Rd, Northbrook, IL",Northbrook,42.129593,-87.825323,www.lowerelectric.com
+407,Academia/Research,,,"Loyola Univeristy, Institute of Environmental Sustainability ","1032 W Sheridan Rd, Chicago, IL 60660",Chicago,41.998644,-87.657844,https://www.luc.edu/sustainability/
+408,Academia/Research,,,"Loyola University, Environmental Law Society","25 E Pearson St, Chicago, IL 60611",Chicago,41.897276,-87.627115,https://www.luc.edu/law/studentlife/organizations/environmental.html
+409,Architecture/Design,Evaluation/Compliance,Consulting,LTLB Envirotecture,"238 E Bailey Rd Unit L, Naperville, IL  60565",Naperville,41.738316,-88.123713,www.LTLBenv.com
+410,Consulting,Finance,Marketing,Lucas Group,"230 W Monroe St Suite 850, Chicago, IL 60606",Chicago,41.881069,-87.634871,https://www.lucasgroup.com/
+411,Oil and Gas,Professional Services,,Lucky's Energy Service Inc.,"16N012 High Ridge Ln, Hampshire, IL 60140",Hampshire,42.096109,-88.407553,www.luckysenergy.com
+412,Solar,Storage,Lighting,LuminAID,"320 W Ohio Suite 3W, Chicago, IL 60654",Chicago,41.892544,-87.636755,http://www.luminaidlab.com/
+413,Professional Services,Construction,Architecture/Design,Lyons-Pinner Electric Companies,"650 E Elm Ave, La Grange, IL 60525",La Grange,41.81035,-87.861659,http://www.lyonspinner.com/
+414,Solar,Wind,Professional Services,Magitek Energy Solutions Inc.,"2408 Dakota Ridge, Johnsburg, IL 60051",Johnsburg,42.411287,-88.244711,https://magitekenergy.com/
+415,Nuclear,Oil and Gas,Professional Services,Magnetrol,"705 Enterprise St, Aurora, IL 60504-8149",Aurora,41.769685,-88.225122,https://www.magnetrol.com/en
+416,Circular Economy,Oil and Gas,Professional Services,Mahoney Environmental,"712 Essington Rd, Joliet, IL 60435",Joliet,41.534976,-88.159844,https://www.mahoneyes.com/
+417,Solar,Finance,,Mainstay Energy,"161 E Chicago Ave Suite 41B, Chicago, IL 60611",Chicago,41.896416,-87.623384,http://www.mainstayenergy.com/
+418,Wind,Solar,,Mainstream Renewable Power,"190 S LaSalle St, Chicago, IL 60603",Chicago,41.879788,-87.63279,https://www.mainstreamrp.com/
+419,Oil and Gas,Engineering,Professional Services,Mansfield Energy Corp.,"4801 S Harlem Ave, Forest View, IL 60402",Forest View,41.804939,-87.801899,https://mansfield.energy/
+420,Oil and Gas,Professional Services,,Marathon Petroleum Corporation,"72 Kimball St, Elgin, IL 60120",Elgin,42.042098,-88.285935,www.marathonpetroleum.com
+421,Energy Efficiency,Utility/Grid,Construction,Maron Electric Company,"328 S Jefferson St Suite 920, Chicago, IL 60661",Chicago,41.877298,-87.642726,https://www.maronelectric.com/
+422,Law,Finance,Policy,Mayer Brown LLP,"71 S Wacker Dr, Chicago, IL 60606",Chicago,41.880899,-87.635987,https://www.mayerbrown.com/en
+423,Utility/Grid,Professional Services,,"MC Squared Energy Services, LLC","2 N Riverside Plz Suite 1350, Chicago, IL 60606",Chicago,41.884783,-87.639227,https://www.mc2energyservices.com/
+424,Utility/Grid,Professional Services,,"MC Squared Energy Services, LLC","175 W Jackson Blvd Suite 240, Chicago, IL 60604",Chicago,41.877873,-87.6332,https://www.mc2energyservices.com/
+425,Oil and Gas,Wave/Water/Hydro,Engineering,McDermott,"14105 S Route 59, Plainfield, IL 60544",Plainfield,41.62564,-88.201139,https://www.mcdermott.com
+426,Law,,,Mcdermott Will & Emery,"444 W Lake St, Chicago, IL 60606-0029",Chicago,41.886243,-87.639536,https://www.mwe.com/industries/energy/
+427,Environmental Remediation,Professional Services,,McDonagh Demolition,"7243 W Touhy Ave, Chicago, IL 60631",Chicago,42.011475,-87.808375,http://www.mcdonaghdemo.com/services/environmental-remediation/
+428,Built Environment,Professional Services,Consulting,"McGuire Engineers, Inc.","300 S Riverside Plz, Chicago, IL",Chicago,41.87758,-87.638571,www.mepcinc.com
+429,Consulting,Utility/Grid,,McKinsey & Company,"300 E Randolph St Suite 3100, Chicago, IL 60601",Chicago,41.884911,-87.619948,https://www.mckinsey.com/industries/electric-power-and-natural-gas/how-we-help-clients
+430,IoT/IIoT,Mobility as a Service,Oil and Gas,"McMahon Transport Group, LLC","14715 New Ave, Lockport, IL 60441",Lockport,41.618336,-88.049871,www.mcmahontransport.com 
+431,Evaluation/Compliance,Oil and Gas,,"McNDT Pipeline, Ltd.","24154 S Northern Illinois Dr, Channahon, IL 60410",Channahon,41.443803,-88.202972,https://www.mcndt.com/
+432,Construction,Engineering,Professional Services,Meade Inc.,"6850 W 62nd St, Chicago, IL 60638",Chicago,41.780226,-87.793253,http://meade100.com/
+433,Consulting,Engineering,Professional Services,MEP Engineering Services,"222 Merchandise Mart Plz, Chicago, IL 60654",Chicago,41.888821,-87.635524,https://www.ny-engineers.com/about/locations/chicago
+434,Finance,Professional Services,Oil and Gas,"Mercuria Energy Trading, Inc.","311 S Wacker Dr Ste 1700, Chicago, IL 60606",Chicago,41.877439,-87.635642,http://www.mercuria.com/
+435,Wave/Water/Hydro,Consulting,,Metropolitan Water Reclamation District of Greater Chicago,"100 E Erie St, Chicago, IL 60611",Chicago,41.89438,-87.625167,https://mwrd.org/
+436,Accelerator/Incubator,Manufacturing,Enabling Technologies/Components,mHUB,"965 W Chicago Ave, Chicago, IL 60642",Chicago,41.895882,-87.652101,https://mhubchicago.com/
+437,Coal,,,Mid-Continent Coal and Coke Co,"2646 Highway Ave Suite 207, Highland, Indiana 46322",Highland,41.555429,-87.464559,http://www.midcontinentcoke.com/
+438,Generation/Transmission,Energy Systems/Management,,"MidAmerican Energy Services, LLC","901 Ridgeway Ave, Aurora, IL 60506",Aurora,41.751031,-88.337253,https://www.midamericanenergyservices.com
+439,Energy Efficiency,Utility/Grid,Consulting,"MidAmerican Energy Services, LLC","14486 John Humphrey Dr, Orland Park, IL 60462",Orland Park,41.626614,-87.851369,https://www.midamericanenergyservices.com/
+440,Enabling Technologies/Components,Manufacturing,,"Midco International, Inc.","4140 W Victoria St, Chicago, IL 60646",Chicago,41.98548,-87.732505,http://www.midcointernational.com/
+441,Policy,Energy Efficiency,Finance,Midwest Energy Efficiency Alliance,"20 N Wacker Dr, Chicago, IL 60606",Chicago,41.882608,-87.637261,https://www.mwalliance.org/
+442,Energy Systems/Management,Consulting,,Midwest Energy Inc.,"559 S Frontage Rd, Burr Ridge, IL 60527",Burr Ridge,41.734782,-87.943237,http://midwestenergyinc.com/energy-services/
+443,Generation/Transmission,Coal,,"Midwest Generation, LLC","440 S LaSalle St Suite 3500, Chicago, IL 60605-5024",Chicago,41.87622,-87.631802,http://midwest-generation.com.yeslab.org/
+444,Oil and Gas,Engineering,Energy Efficiency,"Midwest LFG Solutions, LLC","180 N LaSalle St Ste 3300, Chicago, IL 60601",Chicago,41.885487,-87.632906,www.midwestlfg.com
+445,Energy Efficiency,Energy Systems/Management,Professional Services,Midwest Mechanical,"801 Parkview Blvd, Lombard, IL 60148",Lombard,41.869258,-88.033748,http://www.midwestmech.com/hvac-services/overview.asp
+446,Oil and Gas,Finance,Construction,Midwest Oil Inc.,"9739 W Irving Park Rd, Schiller Park, IL 60176",Schiller Park,41.955152,-87.870377,http://midwest-oil.com/
+447,Solar,Energy Efficiency,Professional Services,Millennium Solar Electric,"12900 S Throop St, Calumet Park, IL 60827",Calumet Park,41.657891,-87.653951,http://millenniumsolarelectric.com/
+448,Insurance,,,Mirella Vargas Agent,"3210 W 55th St, Chicago, IL 60632-2614",Chicago,41.793817,-87.704047,https://agent.amfam.com/mirella-vargas/il/chicago/3210-w-55th-st/
+449,Utility/Grid,Generation/Transmission,Professional Services,"MJ Electric, LLC","1200 Roosevelt Rd Suite 400, Glen Ellyn, IL 60137",Glen Ellyn,41.860394,-88.030271,https://www.mjelectric.com/
+450,Oil and Gas,Biofuels,Professional Services,Mohr Oil Co.,"7340 W Harrison St, Forest Park, IL 60130",Forest Park,41.871951,-87.808951,https://www.mohroil.com/
+451,Generation/Transmission,Oil and Gas,,Morris Cogeneration Facility,"8805 Tabler Rd, Morris, IL 60450",Morris,41.413372,-88.329215,https://www.atlanticpower.com/assets/projects/morris
+452,Enabling Technologies/Components,Materials,,"Motion Industries, Inc.","Wheeling Branch Il33 222 Marquardt Dr, Wheeling, IL 60090",Wheeling,42.116657,-87.910457,https://www.motionindustries.com
+453,Solar,Professional Services,,MOXIE Solar,"2101 W Carroll AveSuite 100, Chicago, IL 60612",Chicago,41.88736,-87.679653,https://moxiesolar.com/
+454,Consulting,Oil and Gas,,MPH Innovative Ltd,"6425 Clarendon Hills Rd, WIllowbrook, IL 60527",WIllowbrook,41.771935,-87.953008,http://www.mph-ltd.com/
+455,Professional Services,Construction,Energy Efficiency,Mr. Mighty Electric,"1913 W 21st, Chicago, IL 60608",Chicago,41.853884,-87.67404,http://mrmightyelectric.com/
+456,Oil and Gas,Utility/Grid,,Multiut Corporation,"7514 N Skokie Blvd Suite 1, Skokie, IL 60077",Skokie,42.017681,-87.748051,http://www.multiut.com/
+457,Nuclear,Academia/Research,Engineering,"Muons, Inc.","552 N Batavia Ave, Batavia, IL 60510",Batavia,41.858337,-88.312598,http://public.muonsinc.com/
+458,Academia/Research,Manufacturing,Security/Cybersecurity,MxD USA,"1415 N Cherry Ave, Chicago, IL 60642",Chicago,41.907025,-87.653788,https://mxdusa.org/
+459,Utility/Grid,Construction,Professional Services,"MZI Group, Inc.","1937 W Fulton St, Chicago, IL 60612",Chicago,41.886573,-87.675816,http://www.mzigroup.com/
+460,IoT/IIoT,Wave/Water/Hydro,Circular Economy,Nalco Water,"6233 W 65th St, Chicago, IL 60638",Chicago,41.773786,-87.777329,https://www.ecolab.com/nalco-water
+461,Consulting,Utility/Grid,Energy Systems/Management,Nania Energy,"4200 Cantera Dr Suite 219, Warrenville, IL 60555",Warrenville,41.81098,-88.158228,https://naniaenergy.com/
+462,Storage,Materials,Enabling Technologies/Components,NanoGraf Corporation,"3440 S Dearborn St, Chicago, IL 60616",Chicago,41.83217,-87.628283,https://nanograf.com/
+463,Enabling Technologies/Components,Storage,,NanoGraf Corporation,"3440 S Dearborn St Suite 113N, Chicago, IL 60616",Chicago,41.83217,-87.628283,https://nanograf.com/
+464,Policy,,,National Advisory Council for Environmental Policy and Technology,"200 E Randolph Dr suite 6907, Chicago, IL",Chicago,41.885289,-87.621513,https://www.federalregister.gov/documents/2019/07/12/2019-14883/national-advisory-council-for-environmental-policy-and-technology
+465,Environmental Remediation,,,National Resource Defense Council,"20 N Wacker Dr, Chicago, IL 60606",Chicago,41.882608,-87.637261,https://www.nrdc.org/
+466,Finance,Consulting,Marketing,National1 Energy,"36 W Randolph St Suite 500, Chicago, IL 60601",Chicago,41.884704,-87.629247,http://national1energy.com/
+467,Oil and Gas,Professional Services,,Natural Gas Pipeline Company of America LLC,"8500 W 68th St, Argo, IL 60501",Argo,41.766511,-87.8291,https://www.kindermorgan.com/pages/business/gas_pipelines/central/NGPL/
+468,Energy Efficiency,Utility/Grid,Consulting,Navigate Power LLC,"2211 N Elston Suite 208, Chicago, IL 60614",Chicago,41.922094,-87.672367,https://navigatepower.com/
+469,Storage,Academia/Research,Enabling Technologies/Components,"Navitas Systems, LLC","1200 Internationale Pkwy, Woodridge, IL 60517",Woodridge,41.697461,-88.012087,https://www.navitassys.com/
+470,Construction,Evaluation/Compliance,Energy Efficiency,"Neighborhood Housing Services of Chicago, Inc.","1279 N Milwaukee Ave Floor 4, Chicago, IL 60622",Chicago,41.905103,-87.668904,https://www.nhschicago.org/fix/construction-services/
+471,Construction,Lighting,Engineering,Nesko Electric Company,"3111 26th Ave, Broadview, IL 60155",Broadview,41.846692,-87.862983,https://www.nesko.com/
+472,Storage,Thermal Energy,,NETenergy,"1452 E 53rd St, Chicago, IL 60615, US",Chicago,41.799734,-87.589718,http://www.netenergytes.com/
+473,Mobility as a Service,Enabling Technologies/Components,,"NetGain Motors, Inc.","800 S State St, Lockport, IL 60441",Lockport,41.589847,-88.056746,https://www.go-ev.com/
+474,Security/Cybersecurity,Evaluation/Compliance,,Network Perception,"20 N Wacker Dr Suite 1200, Chicago, IL 60606",Chicago,41.882624,-87.637272,https://www.network-perception.com/
+475,Generation/Transmission,,,"New Energy Innovations, Inc.","2675 Pratum Ave, Hoffman Estates, IL 60192",Hoffman Estates,42.072756,-88.211537,http://newenergyinnovations.com/
+476,Utility/Grid,Energy Efficiency,,"New Generation Power, Inc.","200 E Randolph St Suite 7950, Chicago, IL 60601",Chicago,41.885283,-87.621512,www.newgenpower.com
+477,Utility/Grid,Consulting,Utility/Grid,Nexant Inc.,"32 E First St Unit 203, Hinsdale, IL, 60521",Hinsdale,41.801387,-87.927782,https://www.nexant.com/ 
+478,IoT/IIoT,Built Environment,Marketing,"Nextech Energy Systems, LLC","1165 N Clark St, Chicago, IL",Chicago,41.90363,-87.631169,https://shop.nextechenergy.com/
+479,Security/Cybersecurity,,,Nexum Inc.,"190 S LaSalle St Suite 1450, Chicago, IL 60603",Chicago,41.879788,-87.63279,https://www.nexuminc.com/
+480,Oil and Gas,Professional Services,,Nicor Enerchange,"3333 Warrenville Rd Suite 300, Lisle, IL 60532",Lisle,41.807507,-88.115523,http://www.nicorenerchange.com/
+481,Oil and Gas,Professional Services,,Nicor Gas,"615 Eastern Ave, Bellwood, IL 60104",Bellwood,41.880666,-87.872637,https://www.nicorgas.com/
+482,Finance,Oil and Gas,Professional Services,Nicor Gas,"1844 W Ferry Rd, Naperville, IL 60563",Naperville,41.805396,-88.198477,https://www.nicorgas.com/
+483,Oil and Gas,Finance,Professional Services,Noil Petroleum Corporation,"110 W Kinzie St, Chicago, IL 60654",Chicago,41.889433,-87.631613,https://www.noilcorp.com/
+484,Wind,Manufacturing,,Nordex USA,"300 S Wacker Dr Suite 1500, Chicago, IL 60606",Chicago,41.877627,-87.637107,http://www.nordex-online.com/en
+485,Utility/Grid,Oil and Gas,Professional Services,Nordic Energy Services LLC,"1 Tower Ln Suite 300, Oakbrook Terrace, IL 60181",Oakbrook Terrace,41.85826,-87.954553,http://www.nordicenergy-us.com/
+486,Energy Efficiency,Consulting,Engineering,NORESCO,"2800 S River Rd, Des Plaines, IL 60018",Des Plaines,42.002631,-87.865264,https://www.noresco.com/
+487,Environmental Remediation,Circular Economy,Professional Services,North American Dismantling Corp.,"384 Lake Nepessing Rd, Lapeer, Michigan 48446",Lapeer,43.036322,-83.363506,https://nadc1.com/
+488,Oil and Gas,Finance,Professional Services,North Shore Gas,"200 E Randolph St, Chicago, IL 60601-6302 ",Chicago,41.885275,-87.621512,https://accel.northshoregasdelivery.com/
+489,Wave/Water/Hydro,,,North Shore Water Reclamation District,"14770 William Koepsel Dr, Gurnee, IL 60031",Gurnee,42.357432,-87.919901,http://www.northshoresanitary.org/
+490,Academia/Research,,,"Northern Illinois University, Institute for the Study of Environment, Sustainability and Energy","325 Montgomery Hall, DeKalb, IL 60115",DeKalb,41.931694,-88.763604,https://www.niu.edu/ese/index.shtml
+491,Academia/Research,,,"Northern Illinois University, Northern Illinois Center for Community Sustainability","1425 W Lincoln Hwy, DeKalb, IL 60115",DeKalb,41.933976,-88.779854,https://www.niu.edu/niccs/
+492,Enabling Technologies/Components,Marketing,Professional Services,Northwest Electric Motor Company,"3917 25th Ave, Schiller Park, IL 60176",Schiller Park,41.949588,-87.867764,http://northwestmotor.com/
+493,Academia/Research,,,Northwestern Energy & Sustainability Consortium,"2145 Sheridan Rd, Evanston, IL 60208",Evanston,42.057838,-87.676157,http://nesc.northwestern.edu/
+494,Academia/Research,,,"Northwestern University, Energy and Resource Systems Analysis Laboratory","2145 Sheridan Rd E127, Evanston, IL 60208-3100",Evanston,42.057822,-87.676146,http://ersal.mccormick.northwestern.edu/ 
+495,Academia/Research,,,"Northwestern University, Engineers for a Sustainable World","2145 Sheridan Rd, Evanston, IL 60208",Evanston,42.057838,-87.676157,https://northwestern.campuslabs.com/engage/organization/ESW
+496,Academia/Research,,,"Northwestern University, Institute for Sustainability and Energy","2145 Sheridan Rd, Evanston, IL 60208",Evanston,42.057838,-87.676157,http://www.isen.northwestern.edu/
+497,Academia/Research,,,"Northwestern University, Program in Environmental Policy and Culture","2145 Sheridan Rd, Evanston, IL 60208",Evanston,42.057838,-87.676157,https://www.epc.northwestern.edu/
+498,Academia/Research,,,"Northwestern University, Students for Ecological and Environmental Development","2145 Sheridan Rd, Evanston, IL 60208",Evanston,42.057838,-87.676157,https://northwestern.campuslabs.com/engage/organization/seed
+499,Academia/Research,,,"Northwestern University, SustainNU","2020 Ridge Ave Suite 200, Evanston, IL 60208",Evanston,42.054534,-87.687445,https://www.northwestern.edu/sustainability/
+500,Security/Cybersecurity,Media,,NowSecure,"141 W Jackson Blvd Suite 2100, Chicago, IL 60604",Chicago,41.878039,-87.632412,https://www.nowsecure.com/
+501,Wind,Manufacturing,,NTN Bearing Corporation,"9515 Winona Ave, Schiller Park, IL 60176",Schiller Park,41.970993,-87.865563,http://www.ntnamericas.com/en/
+502,Nuclear,Policy,,Nuclear Energy Information Service,"3411 W Diversey Ave, Chicago, IL 60647",Chicago,41.931826,-87.712693,https://neis.org/
+503,Media,Nuclear,Engineering,Nuclear Plant Journal,"3051 Oak Grove Rd Suite 107, Downers Grove, IL 60515",Downers Grove,41.832462,-88.021404,http://nuclearplantjournal.com/
+504,Storage,Manufacturing,Engineering,NuMat Technologies,"4901 Searle Pkwy, Skokie, IL 60077",Skokie,42.0272,-87.749499,https://www.numat-tech.com/
+505,Policy,Nuclear,Energy Efficiency,"Office of Adam Kinzinger (US House), Legislative Assistant for Energy","342 W Walnut, Watseka, IL 60970",Watseka,40.776782,-87.739776,https://kinzinger.house.gov/
+506,Policy,Finance,Enabling Technologies/Components,"Office of Bill Foster (US House), Legaslative Assistant for Energy ","2711 E New York St Suite 204, Aurora, IL 60502",Aurora,41.758288,-88.249807,https://foster.house.gov/
+507,Policy,,,"Office of Bobby Rush (US House), Legaslative Assistant for Energy ","11750 S Western Ave, Chicago, IL 60643-4732",Chicago,41.679389,-87.681196,https://rush.house.gov/
+508,Policy,,,"Office of Bradley Schneider (US House), Legaslative Assistant for Energy ","100 N Martin Luther King Jr. Ave, Waukegan, IL 60085",Waukegan,42.360778,-87.834483,https://schneider.house.gov/
+509,Policy,Mobility as a Service,,"Office of Daniel Lipinski (US House), Legaslative Assistant for Energy ","6245 S Archer Avenue, Chicago, IL 60638",Chicago,41.793226,-87.776076,https://lipinski.house.gov/#dialog
+510,Policy,,,"Office of Jan Schakowsky (US House), Legaslative Assistant for Energy ","5533 N Broadway, Chicago, IL 60640",Chicago,41.982724,-87.659598,https://schakowsky.house.gov/
+511,Policy,,,"Office of JB Pritzker (IL Governor), Legislative Laison for Department of Natural Resources","100 W Randolph 16-100, Chicago, IL 60601",Chicago,41.885213,-87.631818,https://www2.illinois.gov/sites/gov/about/Pages/Liaisons.aspx
+512,Policy,,,"Office of Mike Quigley (US House), Legaslative Assistant for Energy ","3223 N Sheffield Ave, Chicago, IL 60657",Chicago,41.940725,-87.653858,https://quigley.house.gov/
+513,Policy,,,"Office of Richard Durbin (US Senate), Legaslative Assistant for Energy ","230 S Dearborn St Suite 3892, Chicago, IL 60604",Chicago,41.878485,-87.629782,https://www.durbin.senate.gov/
+514,Policy,,,Office of Robin Kelly (US House),"1000 E 111th St, Chicago, IL 60628",Chicago,41.694354,-87.599119,https://robinkelly.house.gov/
+515,Policy,,,"Office of Tammy Duckworth (US Senate), Legaslative Assistant for Energy","230 S Dearborn St Suite 3900, Chicago, IL 60604",Chicago,41.878485,-87.629782,https://www.duckworth.senate.gov/
+516,Consulting,Construction,Energy Systems/Management,Ogni Group,"140 E Commercial St suite 1, Wood Dale, IL 60191",Wood Dale,41.964507,-87.97709,https://www.ognigroup.com/
+517,Energy Efficiency,Engineering,Utility/Grid,Ogni Group,"140 E Commercial St Suite 1, Wood Dale, IL 60191",Wood Dale,41.964312,-87.977103,www.ognigroup.com
+518,Oil and Gas,Marketing,,Oil-Dri Corporation of America,"410 N Michigan Ave Suite 400, Chicago, IL 60611",Chicago,41.87662,-87.62449,https://www.oildri.com/
+519,Generation/Transmission,Oil and Gas,Professional Services,Olson Service Company,"36 W Grand Ave, Fox Lake, IL 60020",Fox Lake,42.396867,-88.187406,http://www.olsonoil.com/
+520,Oil and Gas,Storage,Manufacturing,Olympic Petroleum Corporation,"5000 W 41st St, Cicero, IL 60804",Cicero,41.817922,-87.745836,http://www.olympicoil.us/index.html
+521,IoT/IIoT,Utility/Grid,,Omega Grid,"4422 N Ravenswood, Chicago, IL 60640",Chicago,41.962328,-87.674688,https://www.omegagrid.com/
+522,Utility/Grid,,,"Omega Utility Solutions, LLC","57 Baseline Rd Unit B, Montgomery, IL 60538",Montgomery,41.723262,-88.367594,https://www.omega-utility.com/
+523,Generation/Transmission,Oil and Gas,Storage,"ONEOK, Inc.","12850 Smith Rd, Lemont, IL 60439",Lemont,41.652579,-88.030515,http://www.oneok.com/
+524,Security/Cybersecurity,,,OneSpan,"121 W Wacker Dr Suite 2050, Chicago, IL, 60601",Chicago,41.886756,-87.631805,https://www.vasco.com/
+525,Security/Cybersecurity,,,onShore Security,"1407 W Chicago Ave, Chicago, IL 60642",Chicago,41.895999,-87.662739,https://www.onshore.com/
+526,Environmental Remediation,,,Openlands,"25 E Washington St Suite 1650, Chicago, IL 60602",Chicago,41.883192,-87.626809,https://www.openlands.org/
+527,Consulting,Energy Systems/Management,Marketing,"Optimal Facility Management Solutions, LLC","101 W Grand Ave Suite 325, Chicago, IL 60654",Chicago,41.89157,-87.63138,https://optimalfms.com/index.html
+528,Consulting,Policy,Construction,Orbit Legal Consultants,"4256 N Ravenswood Ave, Chicago, IL 60613",Chicago,41.959535,-87.674655,https://orbitenergypa.com/
+529,Wind,Solar,Storage,Orsted Onshore North America LLC,"401 N Michigan Ave suite 501, Chicago, IL 60611",Chicago,41.889633,-87.622935,https://lincoln-clean-energy.com/
+530,Oil and Gas,Biofuels,Professional Services,OSCO Oil,"13351 Main St, Lemont, IL 60439 ",Lemont,41.689175,-87.939283,http://oscooil.com/
+531,Oil and Gas,Biofuels,Professional Services,OSCO Oil," 1909 Addison Ct, Mt. Prospect, IL",Mt. Prospect,41.454951,-88.264824,http://oscooil.com/
+532,Construction,Oil and Gas,Professional Services,"Ozinga Bros., Inc.","2255 S Lumber St, Chicago, IL 60616",Chicago,41.851154,-87.643051,https://energy.ozinga.com/
+533,Construction,Lighting,Architecture/Design,"Palos Electric Co., Inc.","14030 S Kildare Ave, Crestwood, IL 60445",Crestwood,41.647503,-87.725928,http://paloselectric.com/
+534,Storage,Academia/Research,Manufacturing,Panasonic Energy,"1701 Golf Rd suite 3-1200, Rolling Meadows, IL 60008",Rolling Meadows,42.049608,-87.999539,https://www.panasonic-batteries.com/en
+535,Enabling Technologies/Components,Construction,IoT/IIoT,Panduit Corp.,"10500 W 167th St, Orland Park, IL 60467",Orland Park,41.588154,-87.874305,https://www.panduit.com/
+536,Enabling Technologies/Components,Construction,IoT/IIoT,Panduit Corp.,"17301 Ridgeland Ave, Tinley Park, IL 60477",Tinley Park,41.577646,-87.770388,https://www.panduit.com/
+537,Enabling Technologies/Components,Construction,IoT/IIoT,Panduit Corp.,"18900 Panduit Dr, Tinley Park, IL 60487",Tinley Park,41.548528,-87.809451,https://www.panduit.com/
+538,Oil and Gas,Marketing,,"Parent Petroleum, Inc.","3340 W Main St, St. Charles, IL 60175",St. Charles,41.918126,-88.35683,https://www.parentpetroleum.com/
+539,Architecture/Design,Professional Services,Consulting,"Partner Engineering and Science, Inc.","805 N Milwaukee Ave Unit 401C, Chicago, IL 60642",Chicago,41.896532,-87.655478,https://www.partneresi.com/
+540,Enabling Technologies/Components,Materials,,"Parts and Electric Motors, Inc.","3917 N 25th Ave, Schiller Park, IL 60176",Schiller Park,41.949588,-87.867764,http://www.partsandelectricmotors.com/
+541,Engineering,Consulting,Construction,Patrick Engineering Inc.,"55 E Monroe St Suite 3450, Chicago, IL 60603",Chicago,41.88056,-87.625536,https://www.patrickengineering.com/ 
+542,Nuclear,Professional Services,Engineering,PCI Energy Services,"1 Energy Dr, Lake Bluff, IL 60044",Lake Bluff,42.282037,-87.899708,http://www.pci-energy.com/
+543,Oil and Gas,Professional Services,,Peak Energy,"150 N Michigan Ave Floor 28, Chicago, IL 60601",Chicago,41.884782,-87.624961,http://peakoilgas.com/
+544,Oil and Gas,Professional Services,,Peoples Gas,"200 E Randolph St, Chicago, IL 60601-6302",Chicago,41.885283,-87.621512,www.peoplesgasdelivery.com
+545,Construction,Professional Services,Energy Efficiency,"Pernix Group, Inc.","151 E 22nd St, Lombard, IL 60148",Lombard,41.845152,-88.012421,http://www.pernixgroup.com/
+546,Oil and Gas,,,PETCO Petroleum Corporation,"108 E Ogden Ave, Hinsdale, IL 60521",Hinsdale,41.81517,-87.927544,http://www.petcopetroleum.com/
+547,Oil and Gas,Marketing,Professional Services,PetroLiance,"739 N State St, Elgin, IL 60123",Elgin,42.051808,-88.295527,http://www.petroliance.com/
+548,Wave/Water/Hydro,Energy Efficiency,Professional Services,Phigenics LLC,"3S701 W Ave Suite 100, Warrenville, IL 60555",Warrenville,41.815377,-88.156445,https://info.phigenics.com/
+549,Environmental Remediation,Consulting,Engineering,"Pioneer Engineering & Environmental Services, LLC ","2753 W 31st St, Chicago, IL 60608",Chicago,41.837055,-87.694568,http://www.pioneer-environmental-services.com/
+550,Media,Mobility as a Service,,Plug-In Midwest,"35 E Wacker Dr Suite 1600, Chicago, IL  60601",Chicago,41.886648,-87.626817,http://www.pluginmidwest.org/about-elpc/
+551,Consulting,Energy Systems/Management,Professional Services,"PM Environmental, Inc.","2545 W Diversey Ave Suite 210, Chicago, IL 60647",Chicago,41.93159,-87.692186,https://www.pmenv.com/
+552,Wind,Professional Services,,"PNE USA, Inc.","150 N Michigan Ave, Chicago, IL 60601",Chicago,41.884782,-87.624961,https://www.pne-usa.com/
+553,Thermal Energy ,Energy Systems/Management,Professional Services,Polar Heating & Air Conditioning,"13801 SW Hwy, Orland Park, IL 60462",Orland Park,41.64002,-87.849799,https://polarheatingandair.com/index.php/geothermal-heating-and-cooling/
+554,Solar,Lighting,Professional Services,PolTech Electric,"3691 Winding Trail Ln, Hoffman Estates, IL 60192",Hoffman Estates,42.090603,-88.12523,https://www.poltechelectric.com/index.html
+555,Generation/Transmission,Enabling Technologies/Components,,Powell Industries,"515 N Railroad Ave, Northlake, IL 60164",Northlake,41.919739,-87.909697,https://www.powellind.com/Default.aspx
+556,Wind,Engineering,Construction,"Power Engineers Collaborative, LLC","100 S Wacker Dr, Chicago, IL 60606",Chicago,41.880312,-87.637529,http://www.pecllc.com/
+557,IoT/IIoT,Finance,Marketing,Power Kiosk,"351 W Hubbard Suite 502, Chicago, IL 60654",Chicago,41.889805,-87.63756,https://powerkioskdirect.com/
+558,Wave/Water/Hydro,Manufacturing,Professional Services,Power Plant Services,"3131 W Soffel Ave, Melrose Park, IL 60160",Melrose Park,41.90387,-87.872003,http://www.ppsvcs.com/contact-us/
+559,Consulting,Utility/Grid,Energy Efficiency,Power Smart Pricing,"322 S Green St Suite 300, Chicago, IL 60607",Chicago,41.876991,-87.648764,https://www.powersmartpricing.org/contact/
+560,Finance,,,PowerShares Capital Management LLC,"301 W Roosevelt Rd, Wheaton, IL 60187",Wheaton,41.859057,-88.11026,https://www.invesco.com/corporate
+561,Circular Economy,,,"Prairieland Disposal & Recycling, Inc.","21988 N Pepper Rd, Lake Barrington, IL 60010",Lake Barrington,42.183253,-88.18551,https://www.prairielanddisposal.com/
+562,Professional Services,Lighting,Construction,"Precision Electrical Services, Inc","1703 N 23rd Ave Suite 1, Melrose Park, IL 60160",Melrose Park,41.904394,-87.861511,
+563,Circular Economy,Energy Efficiency,,Primary Energy,"2215 S York Rd, Oak Brook, IL 60523",Oak Brook,41.84657,-87.927655,https://www.primaryenergy.com/
+564,Architecture/Design,Engineering,Consulting,Primera Engineers,"100 S Wacker Dr, Chicago, IL 60606",Chicago,41.880312,-87.637529,www.primeraeng.com
+565,Architecture/Design,Engineering,Consulting,Primera Engineers,"650 Warrenville Rd Suite 200, Lisle, IL 60532",Lisle,41.809131,-88.063278,www.primeraeng.com
+566,Energy Efficiency,Evaluation/Compliance,Professional Services,Priority Energy Solutions,"538 Busse Hwy, Park Ridge, IL 60068",Park Ridge,42.017462,-87.84404,https://www.priorityenergy.com/service-category/energy-efficiency-home-improvements
+567,Utility/Grid,Manufacturing,Oil and Gas,Pro-Line Safety Products Company,"1099 Atlantic Dr Suite 1-2, West Chicago, IL 60185",West Chicago,41.903189,-88.216367,http://www.prolinesafety.com/
+568,Consulting,Utility/Grid,Professional Services,Project Green Environmental Solutions,"1501 Circle Ave, Forest Park, IL 60130",Forest Park,41.859091,-87.808079,https://www.projectgreenenvironmentalsolutions.com/
+569,Oil and Gas,Professional Services,,"Purified Lubricants, Inc.","9629 194th St, Mokena, IL 60448",Mokena,41.537403,-87.853111,https://purifiedlubricants.com/
+570,Enabling Technologies/Components,Oil and Gas,Engineering,PyroPhase Inc.,"5000 S Cornell Ave, Chicago, IL, 60615",Chicago,41.804342,-87.586759,http://www.pyrophase.com/
+571,Oil and Gas,Professional Services,,Quantum Energy Inc.,"218 N Jefferson St Suite 400, Chicago, IL 60661",Chicago,41.886405,-87.643006,https://quantum-e.com/
+572,Law,Finance,,Quarles & Brady LLP,"300 N LaSalle St Suite 4000, Chicago, IL 60654",Chicago,41.888245,-87.633098,https://www.quarles.com/
+573,Oil and Gas,Materials,,R.B. Wrobel Inc.,"5627 N Fairview, Norwood Park, IL 60631",Norwood Park,41.982425,-87.83405,http://www.candoitconduit.com/
+574,Thermal Energy ,Energy Systems/Management,Professional Services,R.H. Witt,"2049 Johns Dr, Glenview, IL 60025",Glenview,42.093518,-87.813593,https://rhwitt.com/geothermal/
+575,Wave/Water/Hydro,Professional Services,,R&R Septic & Sewer Services,"24451 W Black Rd, Shorewood, IL 60404",Shorewood,41.535738,-88.210808,https://www.randrseptic.net/
+576,Enabling Technologies/Components,Oil and Gas,Solar,"Radco Industries, Inc.","700 Kingsland Dr, Batavia, IL 60510 USA",Batavia,41.857842,-88.286002,https://www.radcoind.com/solar/
+577,Oil and Gas,Professional Services,,Raimonde Drilling Corporation,"777 W Factory Rd, Addison, IL",Addison,41.913222,-88.006969,http://www.raimonde-drilling.com/
+578,Circular Economy,Enabling Technologies/Components,,"RDI, Inc.","4101 W 42nd Pl, Chicago, IL 60632",Chicago,41.815654,-87.727445,https://www.rdiscraprecycling.com/
+579,Thermal Energy ,,,"RedWave Energy, Inc.","1041 Mackenzie Pl, Wheaton, IL 60187",Wheaton,41.886488,-88.091172,https://redwaveenergy.com/
+580,Oil and Gas,Construction,Professional Services,RelaDyne LLC,"290 E Joe Orr Rd, Chicago Heights, IL 60411",Chicago Heights,41.515361,-87.625908,https://reladyne.com/
+581,Oil and Gas,Construction,Professional Services,RelaDyne LLC,"1011 E Touhy Ave, Des Plaines, IL 60018",Des Plaines,42.007246,-87.895992,https://reladyne.com/
+582,Oil and Gas,Construction,Professional Services,RelaDyne LLC,"2250 Arthur Ave, Elk Grove Village, IL 60007",Elk Grove Village,41.996482,-87.947878,https://reladyne.com/
+583,Insurance,,,Reliance Standard,"1100 E Woodfield Rd Suite 437, Schaumburg, IL 60173",Schaumburg,42.04454,-88.052945,www.reliancestandard.com
+584,Circular Economy,Professional Services,Construction,"Republic Services, Inc.","2351 S Laflin St, Chicago, IL 60608",Chicago,41.849554,-87.662796,https://www.republicservices.com/
+585,Solar,Professional Services,,Rethink Electric,"850 N Central Ave, Wood Dale, IL 60191",Wood Dale,41.979129,-87.97314,https://rethinkelectric.com/
+586,Enabling Technologies/Components,Materials,,Rexnord Corporation,"2324 Curtiss St, Downers Grove, IL 60515 USA",Downers Grove,41.793044,-88.041123,https://www.rexnord.com/home.aspx
+587,Construction,Professional Services,Consulting,RidgeCP,"7253 W Touhy Ave, Chicago, IL 60631",Chicago,42.011444,-87.808763,https://ridgecp.com/
+588,Coal,Materials,Marketing,RioTinto,"200 E Randolph Suite 7100, Chicago, IL 60601",Chicago,41.885294,-87.621525,https://www.riotinto.com/en
+589,Security/Cybersecurity,,,Rippleshot,"227 W Monroe St Suite 5200, Chicago, IL, 60606",Chicago,41.880277,-87.634683,http://www.rippleshot.com/
+590,Oil and Gas,Utility/Grid,Energy Efficiency,"RLD Resources, LLC","333 N Michigan Ave Suite 1810, Chicago, IL 60601",Chicago,41.887675,-87.62423,rldresources.com
+591,Utility/Grid,Wave/Water/Hydro,,Rockwell Utilities,"201 Juniper Cir, Streamwood, IL 60107",Streamwood,42.029427,-88.15717,https://www.rockwellutilities.com/
+592,Solar,Professional Services,Consulting,Rofa Solar,"28 E Jackson Blvd Suite 1009, Chicago, IL 60604",Chicago,41.87838,-87.626453,http://rofasolar.com/
+593,Law,,,Rooney Rippie & Ratnaswamy LLP,"350 W Hubbard St Suite 600, Chicago, IL 60656",Chicago,41.890203,-87.637538,https://www.linkedin.com/company/rooney-rippie-&-ratnaswamy-llp/about/
+594,Energy Efficiency,Energy Systems/Management,Engineering,Root3 Tech. Inc.,"18 S Michigan Ave, Chicago, IL 60603",Chicago,41.881488,-87.625001,http://www.root3tech.com/index.php
+595,Wave/Water/Hydro,Professional Services,,Roto-Rooter,"1691 Town Center St, Aurora, IL 60504",Aurora,41.739991,-88.277394,https://www.rotorooter.com/plumbing/
+596,Circular Economy,Professional Services,Construction,Roy Strom,"1201 Greenwood Ave, Maywood, IL 60153",Maywood,41.877017,-87.831106,https://www.roystrom.com/
+597,Insurance,,,RRR LTD A LLC,"271 Market Sq, Lake Forest, IL 60045",Lake Forest,42.252058,-87.840504,
+598,Solar,Finance,Professional Services,RxSun,"2211 N Elston Ave, Chicago, IL 60614",Chicago,41.922094,-87.672367,https://rxsun.com/
+599,Utility/Grid,Engineering,Professional Services,S&C Electric Company,"6601 N Ridge Blvd, Chicago, IL 60626",Chicago,42.003026,-87.676572,https://www.sandc.com/en/
+600,Insurance,,,Safeway Insurance Company,"790 Pasquinelli Dr, Westmont, IL 60559",Westmont,41.81482,-87.954469,https://www.safewayinsurance.com/default.aspx?Lang=EN
+601,Enabling Technologies/Components,Manufacturing,,SAI Advanced Power Solutions,"11333 Addison Ave, Franklin Park,IL 60131",Franklin Park,41.94224,-87.908796,https://www.sai-aps.com/
+602,Finance,Circular Economy,,Sandbox Industries,"1000 W Fulton Market Suite 213, Chicago, IL",Chicago,41.887099,-87.652655,https://www.sandboxindustries.com/
+603,Utility/Grid,Oil and Gas,Professional Services,Santanna Energy Services,"425 Quadrangle Dr, Bolingbrook, IL 60440",Bolingbrook,41.687578,-88.075953,https://santannaenergyservices.com/
+604,Architecture/Design,Professional Services,Construction,"Sargent & Lundy, LLC","55 E Monroe St, Chicago, IL 60603",Chicago,41.880554,-87.625536,https://sargentlundy.com/
+605,Consulting,Marketing,Utility/Grid,Satori Energy,"300 S Wacker Dr Suite 800, Chicago, IL 60606",Chicago,41.877627,-87.637107,https://www.satorienergy.com/
+606,Law,Evaluation/Compliance,,Saul Ewing Arnstein & Lehr LLP,"161 N Clark St Suite 4200, Chicago, IL 60601",Chicago,41.884865,-87.63067,https://www.saul.com/industries/energy
+607,Consulting,Marketing,Energy Efficiency,Save Wave Energy,"455 N Cityfront Plz Dr, Chicago, IL 60611",Chicago,41.890205,-87.621028,https://www.savewaveenergy.com/
+608,Law,,,Schiff Hardin LLP,"233 S Wacker Dr Suite 7100, Chicago, IL 60606",Chicago,41.878879,-87.635836,https://www.schiffhardin.com/
+609,Storage,Manufacturing,Marketing,Schumacher Electric Corporation,"801 E Business Center Dr, Mt. Prospect, IL 60056",Mt. Prospect,42.076613,-87.923514,https://www.batterychargers.com/
+610,Security/Cybersecurity,,,SecureForensics,"22 W Washington St Suite 1500, Chicago, IL 60602",Chicago,41.883336,-87.628714,https://www.secureforensics.com/
+611,Security/Cybersecurity,,,"Security Enhancement Systems, LLC","3176 MacArthur Blvd, Northbrook, IL 60062",Northbrook,42.148591,-87.858251,https://www.securityenhancementsystems.com/
+612,Consulting,Utility/Grid,Marketing,Select Energy Partners,"300 S Wacker Dr Suite 800, Chicago, IL 60606",Chicago,41.877641,-87.637088,http://selectenergypartners.com/sep/
+613,Utility/Grid,Consulting,Energy Systems/Management,"Sentry Energy Management Services, Inc.","3579 Wetlands Dr, Elgin, IL 60124",Elgin,42.053783,-88.387013,http://sentryenergy.com/
+614,Energy Efficiency,Academia/Research,,Seventhwave,"20 N Wacker Dr Suite 1642, Chicago, IL 60606",Chicago,41.882607,-87.637259,http://www.seventhwave.org/contact
+615,Wave/Water/Hydro,Manufacturing,Marketing,Sewer Equipment Co. of America,"1590 Dutch Rd, Dixon, IL 61021",Dixon,41.81512,-89.476451,https://www.sewerequipment.com/
+616,Law,,,Seyfarth Shaw LLP,"233 S Wacker Dr Suite 8000, Chicago, IL 60606",Chicago,41.878879,-87.635836,https://www.seyfarth.com/
+617,Built Environment,Professional Services,Construction,Shamrock Electric Co. Inc.,"1281 E Brummel Ave, Elk Grove Village, IL 60007",Elk Grove Village,42.017055,-87.967754,https://shamrockelectric.com/
+618,Thermal Energy ,Energy Systems/Management,Professional Services,Shavitz Heating and Air Conditioning,"4849 Main St, Skokie, IL 60077",Skokie,42.033393,-87.749175,https://www.shavitz.com/chicago-heating/geothermal-heating
+619,Energy Efficiency,Evaluation/Compliance,Energy Systems/Management,Shelton Solutions Inc.,"5113 S Harper Suite 200, Chicago, IL 60615",Chicago,41.802035,-87.588521,www.shelton-solutions.com
+620,Law,,,Sidley Austin LLP,"1 S Dearborn, Chicago, IL 60603",Chicago,41.88168,-87.628744,https://www.sidley.com/en/us/
+621,Energy Efficiency,Energy Systems/Management,Professional Services,Sieben Energy Associates,"333 N Michigan Ave, Chicago, IL 60601",Chicago,41.887675,-87.62423,http://www.siebenenergy.com/
+622,Consulting,Finance,Engineering,Siemens Energy ,"799 Roosevelt Rd, Glen Ellyn, IL 60137",Glen Ellyn,41.858248,-88.053775,https://new.siemens.com/global/en/products/energy.html
+623,Professional Services,Security/Cybersecurity,Construction,Sievert Electric,"1230 Hannah Ave, Forest Park, IL 60130",Forest Park,41.863424,-87.808808,http://www.sievertelectric.com/
+624,Energy Systems/Management,Sensors,IoT/IIoT,Sigora International,"965 W Chicago Ave, Chicago, IL 60642",Chicago,41.895882,-87.652101,https://sigora.co/
+625,Built Environment,Construction,Engineering,Sitton Energy Solutions,"1177 N Green Mount Rd Suite 200, O'Fallon, IL 62269",O'Fallon,38.571052,-89.929759,https://sittoncg.com/
+626,Energy Efficiency,Finance,,"Slipstream Group, Inc.","20 N Upper Wacker Dr Suite 1642, Chicago, IL 60606",Chicago,41.882608,-87.637261,https://slipstreaminc.org/
+627,Utility/Grid,Media,Finance,Smart Grid Cluster,"10 W 35th St, Chicago, IL 60616",Chicago,41.831401,-87.62724,http://smartgridcluster.com/ 
+628,Security/Cybersecurity,Consulting,Professional Services,SMBHD,"4147 N Ravenswood Ave Suite 100, Chicago, IL 60613",Chicago,41.957458,-87.673475,https://www.smbhd.com/
+629,Architecture/Design,Engineering,Consulting,"Smith Seckman Reid, Inc.","400 W Liberty Dr Suite B, Wheaton, IL 60187",Wheaton,41.863895,-88.111831,www.ssr-inc.com
+630,Oil and Gas,Academia/Research,Engineering,Smiths Group PLC,"6400 W Oakton St, Morton Grove IL, 60053",Morton Grove IL,42.02647,-87.793939,www.smiths.com
+631,Solar,Storage,Professional Services,"SoCore Energy, LLC","225 W Hubbard St Suite 200, Chicago, IL 60654",Chicago,41.889717,-87.63526,https://www.bloomberg.com/profile/company/0835475D:US
+632,Energy Efficiency,Utility/Grid,Consulting,"SOL VISTA, LLC","8070 Georgia Ave Suite 401, Silver Spring, MD 20910",Silver Spring,38.989375,-77.027063,http://www.solvista.com/
+633,Solar,Finance,Professional Services,Solar Energy of Illinois,"4735 Locust Ave, Glenview, IL 60025",Glenview,42.081743,-87.875286,http://www.solarenergyofillinois.com/
+634,Solar,Built Environment,Professional Services,Solar Service Inc.,"7312 N Milwaukee Ave, Niles, IL 60714",Niles,42.01415,-87.80367,https://www.cleanenergyauthority.com/illinois-solar-installers/solar-service-inc 
+635,Solar,Manufacturing,,Solarland USA,"100 S Saunders Rd, Lake Forest, IL 60045",Lake Forest,42.238724,-87.898439,http://www.solarlandusa.com/
+636,Solar,Consulting,,"SolarWerks, LLC.","2817 N Lakewood Ave, Chicago, IL 60657",Chicago,41.93309,-87.660858,http://solarwerksllc.com/
+637,Consulting,Utility/Grid,Engineering,Solo Energy Solutions Corp.,"40 E 9th St, Chicago, IL 60605",Chicago,41.870747,-87.626392,https://www.soloenergysolutions.com/
+638,Consulting,Utility/Grid,Energy Systems/Management,South Shore Energy Solutions,"2937 W Estes Ave, Chicago, IL 60645",Chicago,42.009957,-87.703621,http://southshoreenergy.com/
+639,Oil and Gas,Energy Efficiency,,Southern Company Gas,"1844 W Ferry Rd, Naperville, IL 60606",Naperville,41.806262,-88.196444,https://southerncompanygas.com/
+640,IoT/IIoT,Consulting,Professional Services,Sphera,"130 E Randolph St Suite 2900, Chicago, IL 60601",Chicago,41.884957,-87.623052,https://sphera.com/
+641,Oil and Gas,Professional Services,,St. Marys Petroleum Inc.,"960 Rand Rd Suite 208, Des Plaines, IL 60016",Des Plaines,42.056695,-87.901029,http://stmaryspetroleum.com/
+642,Oil and Gas,,,State Oil Company,"31366 N US Highway 45, Libertyville, IL 60048",Libertyville,42.318963,-88.005041,http://www.stateoilcompany.com/about_us.htm
+643,Enabling Technologies/Components,Materials,,Steiner Electric Company,"1250 Touhy Ave, Elk Grove Village, IL 60007",Elk Grove Village,42.008136,-87.967933,https://www.steinerelectric.com/
+644,Energy Efficiency,Built Environment,Professional Services,Steinhardt Builders,"8023 Ridgeway Ave, Skokie, IL 60076",Skokie,42.027083,-87.721805,http://steinhardtbuilders.com/
+645,Wave/Water/Hydro,Evaluation/Compliance,,Stericycle Inc.," 28161 N Keith Dr, Lake Forest, IL 60045",Lake Forest,42.27168,-87.90237,www.stericycle.com
+646,Storage,Manufacturing,,"Storage Battery Systems, LLC","179 Easy St, Carol Stream, IL 60188",Carol Stream,41.896885,-88.116096,https://www.sbsbattery.com/
+647,Solar,Built Environment,Professional Services,StraightUp Solar,"505 N Main St Suite A, Bloomington, IL 61701",Bloomington,40.482567,-88.993421,https://straightupsolar.com/ 
+648,Consulting,Nuclear,Professional Services,Strategic Talent Solutions,"135 S LaSalle St Suite 3300, Chicago, IL 60603",Chicago,41.879759,-87.631402,https://www.strattalent.com/
+649,Wind,,,Streator Cayuga Ridge Wind Farm,"25482 E 2300 N Rd, Odell, IL 60460
+",Odell,40.963114,-88.444817,https://www.avangridrenewables.com/
+650,Storage,IoT/IIoT,,Stryde Technologies,"300 N Canal St APT 1505, Chicago, IL, 60606",Chicago,41.887348,-87.640462,http://strydetechnologies.com/
+651,Architecture/Design,Energy Efficiency,Engineering,SUMAC Inc.,"3701 N Ravenswood Ave, Chicago, IL 60613",Chicago,41.948999,-87.673366,www.sumacinc.com
+652,Solar,Professional Services,Finance,Sun Badger Solar,"121 N Marion St Suite 200, Oak Park, IL 60301",Oak Park,41.887983,-87.802629,https://sunbadger.com/
+653,Coal,,,SunCoke Energy Inc.,"1011 Warrenville Rd Floor 6, Lisle, IL 60532",Lisle,41.807183,-88.074051,http://suncoke.com/English/Home/default.aspx 
+654,Wind,Solar,,Suzlon Energy Ltd,"8750 W Bryn Mawr Ave, Chicago, IL 60631",Chicago,41.98306,-87.844308,https://www.suzlon.com/
+655,Law,Environmental Remediation,,"Swanson, Martin & Bell, LLP","330 N Wabash Suite 3300, Chicago, IL 60611",Chicago,41.888631,-87.6275,https://www.smbtrials.com/environmental-law
+656,Security/Cybersecurity,Consulting,Professional Services,Switchfast Technologies,"4043 N Ravenswood Ave Suite 203, Chicago, IL 60613",Chicago,41.955798,-87.673522,https://www.switchfast.com/
+657,Oil and Gas,Coal,,Synata Bio,"4575 Weaver Pkwy Suite 100, Warrenville, IL 60555",Warrenville,41.802278,-88.15833,https://www.truenorthvp.com/company/synata-bio/
+658,Consulting,Engineering,Lighting,"Syska Hennessy Group, Inc.","330 N Wabash Ave Suite 1505, Chicago, IL 60611",Chicago,41.88863,-87.627499,www.syska.com
+659,Oil and Gas,Storage,,Targa,"40 Shuman Blvd, Naperville, IL 60563",Naperville,41.803372,-88.143939,https://www.targaresources.com/
+660,Biofuels,Solar,Professional Services,Targray,"8500 W 68th St, Bedford Park, IL 60501",Bedford Park,41.766511,-87.8291,https://www.targray.com/biofuels/biodiesel/us/illinois/chicago
+661,Thermal Energy ,Energy Systems/Management,Professional Services,TDH Mechanical Inc.,"1623 W Montrose Ave, Chicago, IL 60613",Chicago,41.961371,-87.67023,https://tdhmechanical.com/heating/geothermal-heating/
+662,Storage,Marketing,,Technical Power Systems,"4642 Western Ave, Lisle, IL 60532",Lisle,41.800318,-88.097244,https://www.technicalpowersystems.com/
+663,Oil and Gas,Professional Services,Consulting,TechnipFMC PLC,"450 E Roosevelt Rd, West Chicago, IL 60185",West Chicago,41.86242,-88.199248,https://www.technipfmc.com/en
+664,Accelerator/Incubator,,,Techstars Chicago,"222 W Merchandise Mart Plz Suite 1212, Chicago, IL 60654",Chicago,41.888865,-87.635493,https://www.techstars.com/accelerators/chicago
+665,Thermal Energy ,Energy Systems/Management,Professional Services,Temperature Pro,"540 W 35th St Suite 102, Chicago, IL 60616",Chicago,41.831052,-87.640462,https://temperatureprochicago.com/services/geothermal-heating-cooling/
+666,Environmental Remediation,Consulting,,TerraLocke Sustainability Consultants,"865 N Wood St, Chicago, IL 60622",Chicago,41.897835,-87.671907,http://terralocke.com/
+667,Marketing,Energy Efficiency,,The Beals Group at EXIT Strategy Realty,"7300 S Cottage Grove, Chicago, IL 60619",Chicago,41.762026,-87.605759,https://www.waynebeals.com/zero-energy-capable-homes-are-here/
+668,IoT/IIoT,Circular Economy,,The Climate Corporation,"1330 W Fulton St Suite 400, Chicago, IL 60607",Chicago,41.88698,-87.660262,https://climate.com/
+669,Environmental Remediation,,,The Conservation Foundation,"10S404 Knoch Knolls Rd, Naperville, IL 60565",Naperville,41.717641,-88.143233,http://www.theconservationfoundation.org/
+670,Consulting,Utility/Grid,Energy Systems/Management,"The Cornerstone Energy Group, Inc.","205 N Michigan Ave Suite 810, Chicago, IL, 60601",Chicago,41.886099,-87.624054,https://www.cornerstoneenergygroup.com/
+671,Consulting,Energy Efficiency,,The Green Facilitator,"3903 N Keeler Ave, Chicago, IL, 60641-2916",Chicago,41.951931,-87.732056,www.thegreenfacilitator.com
+672,Academia/Research,,,The Kellogg Energy Club,"2211 Campus Dr, Evanston, IL 60208 ",Evanston,42.057154,-87.671636,https://kellogg.campusgroups.com/energy/home/
+673,Architecture/Design,Energy Efficiency,,The Lamar Johnson Collaborative,"35 E Wacker Dr Suite 1300, Chicago, IL 60601",Chicago,41.886629,-87.626799,https://theljc.com/
+674,Environmental Remediation,,,The Land Conservancy of McHenry County,"4622 Dean St, Woodstock, IL 60098",Woodstock,42.261122,-88.449286,https://www.conservemc.org/
+675,Law,Oil and Gas,Utility/Grid,The Law Office of John Ratnaswamy LLC,"225 W Washington St Suite 2200, Chicago, IL 60606",Chicago,41.882897,-87.634909,https://www.law-energy.com/
+676,Law,,,"The Law Offices of Paul G. Neilan, P.C.","1954 First St Suite 390, Highland Park, IL USA 60035",Highland Park,42.187294,-87.801312,https://www.chicagoenergylawyer.com/
+677,Utility/Grid,Oil and Gas,Consulting,The Power Company,"1165 N Clark St Suite 400, Chicago, IL 60610",Chicago,41.90363,-87.631169,https://thepowercompany.com/
+678,Circular Economy,Consulting,,The Pri Group LLC,"600 Thomas Dr, Bensenville, IL 60106",Bensenville,41.972837,-87.947398,http://theprigroup.com/
+679,Energy Systems/Management,Professional Services,Generation/Transmission,"Thermagen Power Group, LLC","150 S Wacker Dr Suite 2950, Chicago, IL 60606",Chicago,41.879595,-87.637429,http://thermagenpower.com/
+680,Wave/Water/Hydro,,,Thermal Chicago Corporation,"200 W Jackson Blvd Suite 1310, Chicago, IL 60606",Chicago,41.878384,-87.634137,https://www.esdglobal.com/news/article/673-thermal-chicago-corporation
+681,Law,,,Thompson Coburn LLP,"55 E Monroe St Floor 37, Chicago, IL 60603",Chicago,41.880554,-87.625536,https://www.thompsoncoburn.com/
+682,Wave/Water/Hydro,,,Thorn Creek Basin Sanitary District,"700 W End Ave, Chicago Heights, IL 60411",Chicago Heights,41.516617,-87.627022,http://www.thorncreekbasin.org/
+683,Consulting,Engineering,Construction,Thornton Tomasetti,"330 N Wabash Ave Suite 1500, Chicago, IL 60611",Chicago,41.88863,-87.627499,www.thorntontomasetti.com
+684,Solar,Lighting,,"Tick Tock Energy, Inc.","800 E Fayette Ave, Effingham, IL 62401",Effingham,39.119985,-88.532606,https://www.ticktockenergy.com/
+685,Professional Services,Construction,,Titan Electric,"1050 Spring Lake Dr, Itasca, IL 60143",Itasca,41.963942,-88.029368,https://titan-elec.com/
+686,Utility/Grid,Wave/Water/Hydro,Professional Services,"Town & Country Utilities, Inc.","750 Rollins Rd, Ingleside, IL 60041",Ingleside,42.383954,-88.151463,http://www.townandcountryutilities.com/
+687,Nuclear,Engineering,Manufacturing,Transco Products Inc.,"200 N LaSalle St Suite 1550, Chicago, IL 60601-1034",Chicago,41.88607,-87.633022,http://www.transcoproducts.com/
+688,Marketing,Built Environment,,Transwestern Sustainability Services,"200 W Madison St Suite 1200, Chicago, IL 60606",Chicago,43.027782,-87.913637,https://transwestern.com/
+689,Circular Economy,,,Tri-State Disposal Inc.,"13903 S Ashland Ave, Riverdale, IL 60827",Riverdale,41.641945,-87.657924,https://tri-statedisposal.com/
+690,Construction,Consulting,Engineering,Tribco Construction Services,"10 S LaSalle St Suite 202, Chicago, IL 60603",Chicago,41.881576,-87.632672,https://www.tribco-services.com/
+691,Enabling Technologies/Components,Manufacturing,,Tripp Lite,"1111 W 35th St, Chicago, IL 60609",Chicago,41.829791,-87.653395,https://www.tripplite.com/
+692,Law,,,Troutman Pepper Hamilton Sanders LLP,"227 W Monroe St Suite 3900, Chicago, IL 60606",Chicago,41.880261,-87.634679,https://www.troutman.com/
+693,Finance,Wave/Water/Hydro,Energy Efficiency,True North Venture Partners,"205 N Michigan Ave Suite 2930, Chicago, IL 60601",Chicago,41.886094,-87.624052,https://www.truenorthvp.com/
+694,Security/Cybersecurity,Consulting,Professional Services,"Trustwave Holdings, Inc.","70 W Madison St Suite 600, Chicago, IL 60602",Chicago,41.88226,-87.630169,https://www.trustwave.com/en-us/
+695,Policy,Finance,,U.S. Economic Development Administration,"230 S Dearborn St Suite 3280, Chicago, IL 60604",Chicago,41.878485,-87.629782,https://www.eda.gov/
+696,Architecture/Design,Solar,Finance,UGT Renewables,"300 N LaSalle Dr Suite 2230, Chicago, IL 60654",Chicago,41.888127,-87.63272,http://urbangreentech.com/#
+697,Professional Services,Construction,Lighting,Union Electric Company,"9907 S Union Ave, Chicago, IL, 60628",Chicago,41.713971,-87.64028,https://unionelectricchicago.com/
+698,Enabling Technologies/Components,Oil and Gas,Marketing,"UniSource Energy, Inc.","40 Shuman Blvd Suite 290, Naperville, IL 60563",Naperville,41.803366,-88.143931,www.unisource-energy.com
+699,Oil and Gas,,,United States Cylinder Gas Corporation,"11618 S Mayfield Ave, Alsip, IL 60803",Alsip,41.680886,-87.76677,www.uscylgas.com
+700,Oil and Gas,Manufacturing,Materials,Universal HDD Company,"1221 Flex Ct, Lake Zurich, IL 60047",Lake Zurich,42.210487,-88.064193,www.unihdd.com
+701,Academia/Research,,,"University of Chicago, Chicago Booth Energy Group","5807 S Woodlawn Ave, Chicago, IL 60637",Chicago,41.789139,-87.595456,http://www.boothenergy.org/
+702,Academia/Research,,,"University of Chicago, Energy Policy Institute","5757 S University Ave, Chicago, IL 60637",Chicago,41.78992,-87.597337,https://epic.uchicago.edu
+703,Academia/Research,,,"University of Chicago, Phoenix Sustainability Initiative","5757 S University Ave, Chicago, IL 60637",Chicago,41.78992,-87.597337,https://www.facebook.com/PhoenixSustainabilityUChicago/
+704,Accelerator/Incubator,Academia/Research,,"University of Chicago, Polsky Accelerator","5807 S Woodlawn Ave Suite 207, Chicago, IL 60637",Chicago,41.789363,-87.595456,https://polsky.uchicago.edu/programs-events/polsky-accelerator/
+705,Academia/Research,,,"University of Chicago, Urban Labs","33 N LaSalle St Suite 1600, Chicago, IL 60602",Chicago,41.882798,-87.632173,https://urbanlabs.uchicago.edu/labs/energy-environment
+706,Academia/Research,, ,University of Illinois at Chicago Summer Institute of Sustainability & Energy,"845 W Taylor St, Chicago, IL 60607",Chicago,41.869014,-87.648209,https://uicsise.com/#welcome
+707,Academia/Research,,,"University of Illinois at Chicago Symposium on Energy, Environment & Sustainability","601 S Morgan St, Chicago, IL 60642",Chicago,41.873763,-87.650993,https://chicagocause.wordpress.com/
+708,Academia/Research,,,"University of Illinois at Chicago, Energy Resources Center","1309 S Halsted St Suite 205, Chicago, IL 60607",Chicago,41.865112,-87.646575,http://www.erc.uic.edu/
+709,Academia/Research,,,"University of Illinois at Chicago, Great Cities Institute","412 S Peoria St Suite 400, Chicago, IL 60607",Chicago,41.876293,-87.649848,https://greatcities.uic.edu/
+710,Accelerator/Incubator,Academia/Research,,"University of Illinois at Chicago, Innovation Center","1240 W Harrison St, Chicago, IL 60607",Chicago,41.875117,-87.658489,https://innovationcenter.uic.edu/
+711,Academia/Research,,,"University of Illinois at Chicago, Office of Planning, Sustainability and Project Management","1140 S Paulina St 150 PSB, Chicago, IL 60612",Chicago,41.869794,-87.649634,https://sustainability.uic.edu/
+712,Academia/Research,,,"University of Illinois at Chicago, Renewable Energy","845 W Taylor St, Chicago, IL 60607",Chicago,41.869014,-87.648209,https://phys.uic.edu/our-research/renewable-energy/
+713,Oil and Gas,Generation/Transmission,Utility/Grid,University Park Energy LLC,"2635 Dralle Rd, University Park, IL 60484",University Park,41.441159,-87.754981,
+714,Accelerator/Incubator,Academia/Research,,University Technology Park,"10 W 35th St, Chicago, IL 60616",Chicago,41.831629,-87.627186,https://www.iit.edu/utp
+715,Energy Efficiency,Consulting,Utility/Grid,"Uptake Technologies, Inc.","600 W Chicago Ave Suite 350, Chicago, IL 60654",Chicago,41.897545,-87.643383,https://www.uptake.com/industry-solutions/energy
+716,Oil and Gas,Manufacturing,Engineering,"US Global Petroleum, Inc.","9101 Fullerton Ave, Franklin Park, IL 60131",Franklin Park,41.921631,-87.853127,www.usglobalpetroleum.com
+717,Coal,,,US Minerals,"18635 W Creek Dr, Tinley Park, IL 60477",Tinley Park,41.553246,-87.798875,https://www.us-minerals.com/
+718,Enabling Technologies/Components,Oil and Gas,Chemistry,US Silica,"200 N LaSalle St Suite 2100, Chicago, IL 60601",Chicago,41.886067,-87.633022,https://www.ussilica.com/
+719,Utility/Grid,,,Utilities Inc.,"500 W Monroe St, Chicago, IL 60661",Chicago,41.880839,-87.640763,
+720,Energy Efficiency,Energy Systems/Management,Evaluation/Compliance,"Utilivate Technologies, LLC","2159 W Hastings St, Chicago, IL 60608",Chicago,41.863551,-87.680078,www.utilivate.com
+721,Energy Efficiency,Energy Systems/Management,Evaluation/Compliance,"Utilivate Technologies, LLC","150 N Michigan Ave Suite 2800, Chicago, IL 60601",Chicago,41.884785,-87.624961,www.utilivate.com
+722,Enabling Technologies/Components,Professional Services,,"VAFCON, Inc.","22591 Cottage Grove Ave, Steger, IL",Steger,41.47842,-87.588309,http://www.vafcon.com/line%20card%20page1.jpg
+723,Nuclear,Engineering,Manufacturing,Val-Matic Valve & Mfg. Corporation,"905 Riverside Dr, Elmhurst, IL 60126",Elmhurst,41.871623,-87.95804,https://www.valmatic.com/
+724,Utility/Grid,Oil and Gas,Professional Services,Vanguard Energy Solutions,"850 E Diehl Rd Suite 142, Naperville, IL 60563",Naperville,41.802956,-88.133393,https://www.vanguardenergy.net/
+725,Enabling Technologies/Components,Chemistry,Circular Economy,Vantage Specialty Chemicals,"4650 S Racine Ave, Chicago, IL 60609",Chicago,41.809317,-87.655668,https://www.vantagegrp.com/webforward/industries
+726,Security/Cybersecurity,Evaluation/Compliance,,"Vaporstream, Inc.","79 W Monroe Suite 900, Chicago, IL 60603",Chicago,41.880321,-87.630599,https://www.vaporstream.com/
+727,Energy Efficiency,Wave/Water/Hydro,Professional Services,Veolia Environmental Services,"5137 Indianapolis Blvd, East Chicago, IN 46312",East Chicago,41.620038,-87.480446,https://www.veolianorthamerica.com/
+728,Professional Services,Construction,,Verde Install,"2211 N Elston Ave Suite 208, Chicago, IL 60614",Chicago,41.922094,-87.672367,https://verdeinstall.com/
+729,Consulting,Engineering,Energy Systems/Management,Verde Solutions,"2211 N Elston Ave Suite 208, Chicago, IL 60614",Chicago,41.922094,-87.672367,https://verdesolutions.com/
+730,Oil and Gas,Biofuels,Manufacturing,Vertec BioSolvents Inc.,"1441 Branding Ln Suite 100, Downers Grove, IL 60515",Downers Grove,41.83109,-88.022934,http://www.vertecbiosolvents.com/
+731,Wind,Professional Services,,Vestas Wind Systems,"8600 W Bryn Mawr Ave, Chicago, IL 60631",Chicago,41.983019,-87.842159,https://www.vestas.com/
+732,Wave/Water/Hydro,Evaluation/Compliance,,Village of Glencoe Water Utility,"675 Village Ct, Glencoe, IL 60022
+",Glencoe,42.133847,-87.757793,https://www.villageofglencoe.org/government/departments/public_works/water.php
+733,Wave/Water/Hydro,Circular Economy,,Village of Minooka Utilities Department,"121 McEvilly Rd, Minooka, IL 60447",Minooka,41.448857,-88.260644,https://www.minooka.com/utilities-department-water-sewer-garbage/
+734,Policy,Professional Services,Circular Economy,Village of Oak Park Environment & Energy Commission ,"Village Hall 123 Madison St, Oak Park, IL",Oak Park,41.879406,-87.778906,https://www.oak-park.us/your-government/citizen-commissions/environment-energy-commission
+735,Professional Services,Construction,,Visco Electric LLC,"3N075 Woodcreek Ln, West Chicago, IL 60185",West Chicago,41.916636,-88.169043,https://pr.business/visco-electric-llc-west-chicago-illinois
+736,Oil and Gas,Professional Services,,Viscosity Oil Company,"600 Joliet Rd Suite H, Willowbrook, IL 60527",Willowbrook,41.747578,-87.937999,http://viscosityoil.com/quality/
+737,Enabling Technologies/Components,Storage,,Volta Energy Technologies,"28365 Davis Pkwy Suite 202, Warrenville, IL 60555",Warrenville,41.800816,-88.176262,https://plusvolta.com/
+738,Wave/Water/Hydro,Evaluation/Compliance,,"Water Integrated Treatment Systems, LLC","1040 Maryland Ave, ​Dolton, IL 60419",​Dolton,41.627201,-87.59711,https://www.wateritsystems.com/
+739,Wave/Water/Hydro,Professional Services,,Water Quality Association,"4151 Naperville Rd, Lisle, IL 60532",Lisle,41.810136,-88.115786,https://www.wqa.org/
+740,Consulting,Construction,Professional Services,WCD Group,"1550 Hubbard Ave, Batavia, IL 60510
+",Batavia,41.859092,-88.274846,https://www.wcdgroup.com/
+741,Solar,Finance,Professional Services,WCP Solar,"1057 Shore Rd, Naperville, IL 60563",Naperville,41.787315,-88.227349,https://www.wcpsolar.com/?utm_source=GMBlisting&utm_medium=organic
+742,Circular Economy,,,We Care Recycling ,"1001 Aucutt Rd, Montgomery, IL 60538",Montgomery,41.729435,-88.351712,https://wecarerecycling.neocities.org/
+743,Environmental Remediation,Consulting,Engineering,Weaver Consultants Group  ,"35 E Wacker Dr, Chicago, IL 60601",Chicago,41.886577,-87.626694,https://www.wcgrp.com/
+744,Energy Efficiency,Finance,Evaluation/Compliance,"WegoWise, Inc.","20 Ashburton Pl, Boston, MA 02108",Boston,42.358811,-71.062544,www.wegowise.com
+745,Enabling Technologies/Components,Consulting,Marketing,"WESCO International, Inc.","200 Lies Rd Suite E, Carol Stream, IL 60188",Carol Stream,41.929859,-88.118308,https://www.wesco.com/
+746,Coal,,,West Branch Coal Co,"20 E Jefferson Ave, Naperville, IL 60540
+",Naperville,41.772678,-88.14704,
+747,Consulting,Utility/Grid,Finance,West Monroe Partners,"222 W Adams St, Chicago, IL 60606",Chicago,41.879497,-87.634713,https://www.westmonroepartners.com/
+748,Wave/Water/Hydro,,,West Suburban Water Commission,"7000 S Archer Rd, Bedford Park, IL 60458",Bedford Park,41.766626,-87.822313,http://www.willowsprings-il.gov/west-suburban-water-commission
+749,Construction,Utility/Grid,Professional Services,Western Utility,"2240 S Union, Chicago, IL 60609",Chicago,41.822531,-87.643732,http://westernutility.com/about/
+750,Consulting,Engineering,Professional Services,Willdan Energy Solutions,"445 N Wells St Suite 203, Chicago, IL 60654",Chicago,41.89057,-87.633804,http://www.willdan.com/
+751,Consulting,Engineering,Professional Services,Willdan Energy Solutions,"4147 N Ravenswood Ave, Chicago, IL 60613",Chicago,41.957453,-87.673471,http://www.willdan.com/
+752,Energy Efficiency,Engineering,Consulting,Willdan Energy Solutions,"445 N Wells Suite 203, Chicago, IL 60654",Chicago,41.890572,-87.633801,http://www.willdan.com/
+753,Solar,Architecture/Design,Professional Services,Windfree Solar Co.,"5022 W Foster Ave, Chicago, IL 60630",Chicago,41.975588,-87.753814,https://www.windfree.us/
+754,Solar,Wind,Professional Services,WindSoleil,"1715 Emerson St, Evanston, IL 60201",Evanston,42.052325,-87.696659,https://www.windsoleil.com/#windsoleil-home
+755,Wind,Academia/Research,Professional Services,Winergy Group,"1401 Madeline Ln, Elgin, IL 60124",Elgin,42.066482,-88.34773,https://www.winergy-group.com/en/about-us
+756,Solar,Wind,Professional Services,WinSol Power Company,"2031 Johns Dr, Glenview, IL 60025 ",Glenview,42.093073,-87.813358,https://www.winsolpc.com/
+757,Law,,,Winston & Strawn LLP,"35 W Wacker Dr, Chicago, IL 60601",Chicago,41.886583,-87.629188,https://www.winston.com/en/
+758,Nuclear,Engineering,Manufacturing,WITTENSTEIN North America,"1249 Humbracht Cir, Bartlett, IL 60103",Bartlett,41.977963,-88.216218,https://cyber-motor.wittenstein-us.com/
+759,Circular Economy,Professional Services,,"WM Intellectual Property Holdings, LLC","3301 W 48th Pl, Chicago, IL 60632",Chicago,41.805122,-87.706347,https://www.wm.com/us/en/myhome
+760,Consulting,Wind,,Wood McKenzie,"117 N Jefferson St Suite 400, Chicago, IL 60661",Chicago,41.883863,-87.642263,https://www.woodmac.com/our-expertise/capabilities/power-and-renewables/
+761,Construction,Materials,,"Woodmac Industries, Inc.","3233 Holeman Ave, South Chicago Heights, IL 60411",South Chicago Heights,41.480695,-87.626119,http://www.woodmacind.com/
+762,Enabling Technologies/Components,,,"Woofer Electronics Distributors, Inc. ","4970 N Elston Ave, Chicago, IL 60630",Chicago,41.970936,-87.745201,https://woofered.com/contact-us/
+763,Consulting,Professional Services,Environmental Remediation,WRD Environmental,"445 N Sacramento Blvd Suite 201, Chicago, IL 60612",Chicago,41.889927,-87.700893,http://www.wrdenvironmental.com/
+764,Consulting,Energy Systems/Management,Professional Services,WSP,"600 W Chicago Ave Suite 650, Chicago, IL 60654",Chicago,41.897641,-87.643394,https://www.wsp.com/en-US/services/sustainability-energy-and-climate-change
+765,Consulting,Construction,Engineering,Wynndalco Enterprises,"400 N Michigan Ave Suite 500, Chicago, IL 60611",Chicago,41.889228,-87.624352,https://www.wynndalco.com/
+766,Security/Cybersecurity,,,Xaptum,"541 N Fairbanks Ct Suite 2200, Chicago, IL 60611",Chicago,41.892236,-87.619843,https://www.xaptum.com/
+767,Marketing,Media,Policy,Yelloblu,"657 W Lake St, Chicago, IL 60661",Chicago,41.885538,-87.644893,http://www.yelloblu.com/
+768,Solar,Storage,Professional Services,YellowLite,"512 N McClurg Ct Suite 2207, Chicago, IL 60611",Chicago,41.891455,-87.618942,http://yellowlite.com
+769,Storage,Engineering,,Zeus Battery Products,"191 Covington Dr, Bloomingdale, IL 60108",Bloomingdale,41.948,-88.123876,https://www.zeusbatteryproducts.com/
+770,Utility/Grid,Oil and Gas,Generation/Transmission,Zion Energy Center,"5701 9th St, Zion, IL 60099",Zion,42.477009,-87.895654,http://www.calpine.com/zion-energy-center
+771,Environmental Remediation,Professional Services,,Ziron Environmental Services,"302 E 25th St, Chicago Heights, IL 60411",Chicago Heights,41.492239,-87.624016,http://www.zesinc.com/
